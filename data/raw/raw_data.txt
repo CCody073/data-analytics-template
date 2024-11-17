@@ -1,0 +1,11 @@
+# Application Settings
+APP_NAME=MyProject
+DEBUG_MODE=true
+MAX_UPLOAD_SIZE=5MB
+DEFAULT_LANGUAGE=en
+CACHE_TIMEOUT=3600
+
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=myapp_db

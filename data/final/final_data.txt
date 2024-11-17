@@ -1,0 +1,6 @@
+id,first_name,last_name,email,role
+1,John,Smith,john.smith@email.com,admin
+2,Sarah,Johnson,sarah.j@email.com,user
+3,Michael,Brown,m.brown@email.com,editor
+4,Emma,Davis,emma.d@email.com,user
+5,James,Wilson,j.wilson@email.com,moderator
