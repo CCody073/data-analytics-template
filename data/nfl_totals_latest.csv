@@ -1,0 +1,1098 @@
+type,odds,point,commence_time,home_team,away_team,bookmaker_key,bookmaker_last_update,home_offense_rank,home_points_for,home_defense_rank,home_points_against,away_offense_rank,away_points_for,away_defense_rank,away_points_against,actual_total,week,predicted_total,prediction_correct
+Over,-110,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,betmgm,2024-10-30 14:56:40+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-112,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,betonlineag,2024-10-30 14:57:56+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-109,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,betrivers,2024-10-30 14:57:57+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-110,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,betus,2024-10-30 14:57:57+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-112,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,draftkings,2024-10-30 14:57:56+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-110,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,fanduel,2024-10-30 14:57:56+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-109,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,lowvig,2024-10-30 14:57:56+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-110,44.5,2024-11-03,Arizona Cardinals,Chicago Bears,williamhill_us,2024-10-30 14:57:15+00:00,16,22.2,11,21.5,23,20.1,9,20.0,38.0,9,38,1.0
+Over,-110,46.0,2024-11-10,Arizona Cardinals,New York Jets,betmgm,2024-11-06 22:23:17+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-112,46.0,2024-11-10,Arizona Cardinals,New York Jets,betonlineag,2024-11-06 22:23:15+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,39,1.0
+Over,-110,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betus,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-108,46.0,2024-11-10,Arizona Cardinals,New York Jets,betrivers,2024-11-06 22:23:15+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-110,46.0,2024-11-10,Arizona Cardinals,New York Jets,betus,2024-11-06 22:23:16+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-112,46.0,2024-11-10,Arizona Cardinals,New York Jets,draftkings,2024-11-06 22:23:14+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,39,1.0
+Over,-114,45.5,2024-11-10,Arizona Cardinals,New York Jets,fanduel,2024-11-06 22:23:16+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,39,1.0
+Over,-109,46.0,2024-11-10,Arizona Cardinals,New York Jets,lowvig,2024-11-06 22:23:14+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-114,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,fanduel,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-110,46.0,2024-11-10,Arizona Cardinals,New York Jets,williamhill_us,2024-11-06 22:22:02+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-105,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betonlineag,2024-11-27 16:02:02+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,draftkings,2024-11-27 16:02:02+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,42,
+Over,-105,46.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,fanduel,2024-11-27 16:02:03+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-102,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,lowvig,2024-11-27 16:02:02+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,39.5,2024-11-17,Tennessee Titans,Minnesota Vikings,betus,2024-11-13 21:26:32+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,42,0.0
+Over,-105,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betonlineag,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,draftkings,2024-10-30 14:57:56+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-108,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betrivers,2024-11-30 17:40:43+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-108,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,betonlineag,2024-11-06 22:23:15+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,53,0.0
+Over,-105,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betus,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,45.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,draftkings,2024-11-27 16:02:02+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,draftkings,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,42,
+Over,-105,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,lowvig,2024-11-06 22:23:14+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,53,0.0
+Over,-105,46.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,fanduel,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betmgm,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-102,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,lowvig,2024-11-30 17:40:41+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,betmgm,2024-10-30 14:56:40+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,1.0
+Over,-112,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,betonlineag,2024-10-30 14:57:56+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,1.0
+Over,-110,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,betrivers,2024-10-30 14:57:57+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,1.0
+Over,-110,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,betus,2024-10-30 14:57:57+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,1.0
+Over,-108,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,draftkings,2024-10-30 14:57:56+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,53,0.0
+Over,-115,51.5,2024-11-03,Atlanta Falcons,Dallas Cowboys,fanduel,2024-10-30 14:57:56+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,0.0
+Over,-109,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,lowvig,2024-10-30 14:57:56+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,53,0.0
+Over,-110,52.0,2024-11-03,Atlanta Falcons,Dallas Cowboys,williamhill_us,2024-10-30 14:57:15+00:00,16,22.2,25,24.9,21,20.7,30,28.3,48.0,9,52,1.0
+Over,-110,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betmgm,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betmgm,2024-11-30 17:39:20+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betonlineag,2024-11-27 16:02:02+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-108,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betrivers,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betus,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-112,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,draftkings,2024-11-27 16:02:02+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,fanduel,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betmgm,2024-11-30 17:39:20+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-107,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,lowvig,2024-11-27 16:02:02+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,47.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,williamhill_us,2024-11-21 18:41:25+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betmgm,2024-11-30 17:39:20+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betonlineag,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betus,2024-11-27 16:02:03+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betrivers,2024-11-30 17:40:43+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-115,49.5,2024-11-03,Buffalo Bills,Miami Dolphins,fanduel,2024-10-30 14:57:56+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,47,0.0
+Over,-115,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betus,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,35,
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,betmgm,2024-10-30 14:56:40+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-108,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,draftkings,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-105,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,fanduel,2024-10-30 14:57:56+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,47,1.0
+Over,-115,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,fanduel,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,35,
+Over,-109,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,betrivers,2024-11-13 21:26:39+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,46,0.0
+Over,-107,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,lowvig,2024-11-30 17:40:41+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,53.0,2024-11-08,Baltimore Ravens,Cincinnati Bengals,betmgm,2024-11-06 22:23:17+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-113,53.5,2024-11-08,Baltimore Ravens,Cincinnati Bengals,betonlineag,2024-11-06 22:23:15+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-108,53.5,2024-11-08,Baltimore Ravens,Cincinnati Bengals,betrivers,2024-11-06 22:23:15+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-110,53.0,2024-11-08,Baltimore Ravens,Cincinnati Bengals,betus,2024-11-06 22:23:16+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-110,53.5,2024-11-08,Baltimore Ravens,Cincinnati Bengals,draftkings,2024-11-06 22:23:14+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-105,53.5,2024-11-08,Baltimore Ravens,Cincinnati Bengals,fanduel,2024-11-06 22:23:16+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,66,1.0
+Over,-110,53.5,2024-11-08,Baltimore Ravens,Cincinnati Bengals,lowvig,2024-11-06 22:23:14+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-110,53.0,2024-11-08,Baltimore Ravens,Cincinnati Bengals,williamhill_us,2024-11-06 22:22:02+00:00,2,30.3,23,24.5,6,27.0,28,26.9,69.0,10,65,1.0
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,betmgm,2024-10-30 14:56:40+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-108,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,draftkings,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,betonlineag,2024-10-30 14:57:56+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,betrivers,2024-10-30 14:57:57+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,betus,2024-10-30 14:57:57+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-112,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,draftkings,2024-10-30 14:57:56+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-105,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,fanduel,2024-10-30 14:57:56+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,47,1.0
+Over,-115,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,fanduel,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,35,
+Over,-107,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,lowvig,2024-10-30 14:57:56+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,47,1.0
+Over,-110,45.5,2024-11-03,Baltimore Ravens,Denver Broncos,williamhill_us,2024-10-30 14:57:15+00:00,2,30.3,23,24.5,19,22.0,2,16.8,51.0,9,46,1.0
+Over,-110,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betmgm,2024-11-27 16:02:03+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betonlineag,2024-11-27 16:02:02+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betrivers,2024-11-21 18:42:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betus,2024-11-27 16:02:03+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betrivers,2024-11-30 17:40:43+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-112,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,draftkings,2024-11-27 16:02:02+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-106,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,fanduel,2024-11-27 16:02:03+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-107,51.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,lowvig,2024-11-27 16:02:02+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-110,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,williamhill_us,2024-11-21 18:41:25+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-107,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,lowvig,2024-11-18 19:21:49+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betmgm,2024-11-30 17:39:20+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-107,45.0,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,lowvig,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,32,
+Over,-104,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betonlineag,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,betonlineag,2024-11-18 19:22:27+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-112,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betrivers,2024-11-30 17:40:43+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,44.0,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,williamhill_us,2024-11-21 18:41:25+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betus,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,williamhill_us,2024-11-06 22:22:02+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,32,1.0
+Over,-112,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,draftkings,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,fanduel,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-114,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,fanduel,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-112,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,betrivers,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-101,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,lowvig,2024-11-30 17:40:41+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-110,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,betmgm,2024-11-13 21:26:39+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,46,0.0
+Over,-105,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,betonlineag,2024-11-13 21:26:47+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,47,1.0
+Over,-109,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,betrivers,2024-11-13 21:26:39+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,46,0.0
+Over,-107,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,lowvig,2024-11-30 17:40:41+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-105,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,betus,2024-11-13 21:26:32+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,47,1.0
+Over,-108,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,draftkings,2024-11-13 21:26:39+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,47,1.0
+Over,-115,46.5,2024-11-17,Buffalo Bills,Kansas City Chiefs,fanduel,2024-11-06 22:23:16+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,46,0.0
+Over,-102,46.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,lowvig,2024-11-13 21:26:42+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,47,1.0
+Over,-110,47.0,2024-11-17,Buffalo Bills,Kansas City Chiefs,williamhill_us,2024-11-06 22:22:02+00:00,3,29.1,7,19.5,10,24.1,8,19.6,51.0,11,47,0.0
+Over,-115,49.5,2024-11-03,Buffalo Bills,Miami Dolphins,betmgm,2024-10-30 14:56:40+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,47,0.0
+Over,-105,50.0,2024-11-03,Buffalo Bills,Miami Dolphins,betonlineag,2024-10-30 14:57:56+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,48,0.0
+Over,-112,50.0,2024-11-03,Buffalo Bills,Miami Dolphins,betrivers,2024-10-30 14:57:57+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,47,0.0
+Over,-110,49.5,2024-11-03,Buffalo Bills,Miami Dolphins,betus,2024-10-30 14:57:57+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,48,0.0
+Over,-112,49.5,2024-11-03,Buffalo Bills,Miami Dolphins,draftkings,2024-10-30 14:57:56+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,47,0.0
+Over,-115,49.5,2024-11-03,Buffalo Bills,Miami Dolphins,fanduel,2024-10-30 14:57:56+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,47,0.0
+Over,-115,47.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betus,2024-11-30 17:40:42+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,35,
+Over,-102,50.0,2024-11-03,Buffalo Bills,Miami Dolphins,lowvig,2024-10-30 14:57:56+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,49,0.0
+Over,-110,50.0,2024-11-03,Buffalo Bills,Miami Dolphins,williamhill_us,2024-10-30 14:57:15+00:00,3,29.1,7,19.5,24,19.3,13,22.2,57.0,9,48,0.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betmgm,2024-11-27 16:02:03+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-113,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betonlineag,2024-11-27 16:02:02+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,51,
+Over,-113,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betrivers,2024-11-27 16:02:03+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,51,
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betus,2024-11-27 16:02:03+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-112,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,draftkings,2024-11-27 16:02:02+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,fanduel,2024-11-27 16:02:03+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,lowvig,2024-11-27 16:02:02+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,47.0,2024-12-02,Buffalo Bills,San Francisco 49ers,williamhill_us,2024-11-21 18:41:25+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,betus,2024-11-06 22:23:16+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betmgm,2024-11-30 17:39:20+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,williamhill_us,2024-11-24 21:57:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betonlineag,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-108,39.0,2024-11-10,Los Angeles Chargers,Tennessee Titans,draftkings,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-112,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betrivers,2024-11-30 17:40:43+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,fanduel,2024-11-27 16:02:03+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betus,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,betonlineag,2024-11-24 21:58:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,draftkings,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,41.0,2024-10-27,Los Angeles Chargers,New Orleans Saints,betonlineag,2024-10-25 18:34:46+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-115,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,fanduel,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,51,
+Over,-110,44.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,draftkings,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-107,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,lowvig,2024-11-30 17:40:41+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,betmgm,2024-11-21 18:42:41+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-105,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,betonlineag,2024-11-21 18:42:41+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,draftkings,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-107,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,betrivers,2024-11-21 18:42:42+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,betus,2024-11-21 18:41:26+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-108,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,draftkings,2024-11-21 18:42:41+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-105,43.5,2024-11-24,Carolina Panthers,Kansas City Chiefs,fanduel,2024-11-21 18:42:42+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-105,42.5,2024-12-01,New York Jets,Seattle Seahawks,fanduel,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-102,41.5,2024-11-24,Carolina Panthers,Kansas City Chiefs,lowvig,2024-11-18 19:21:49+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betus,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-110,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,williamhill_us,2024-11-21 18:41:25+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,betmgm,2024-10-30 14:56:40+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-110,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,betonlineag,2024-10-30 14:57:56+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-112,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,betrivers,2024-10-30 14:57:57+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-110,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,betus,2024-10-30 14:57:57+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-108,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,draftkings,2024-10-30 14:57:56+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,51,1.0
+Over,-110,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,fanduel,2024-10-30 14:57:56+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-107,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,lowvig,2024-10-30 14:57:56+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,51,1.0
+Over,-110,43.5,2024-11-03,Carolina Panthers,New Orleans Saints,williamhill_us,2024-10-30 14:57:15+00:00,29,17.6,32,30.9,11,23.8,20,23.6,45.0,9,50,1.0
+Over,-115,40.5,2024-11-10,Carolina Panthers,New York Giants,betmgm,2024-11-06 22:23:17+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-115,40.0,2024-11-10,Carolina Panthers,New York Giants,betonlineag,2024-11-06 22:23:15+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,43,0.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betonlineag,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-112,40.5,2024-11-10,Carolina Panthers,New York Giants,betrivers,2024-11-06 22:23:15+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-110,40.5,2024-11-10,Carolina Panthers,New York Giants,betus,2024-11-06 22:23:16+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-108,40.5,2024-11-10,Carolina Panthers,New York Giants,draftkings,2024-11-06 22:23:14+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-110,40.5,2024-11-10,Carolina Panthers,New York Giants,fanduel,2024-11-06 22:23:16+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-113,40.0,2024-11-10,Carolina Panthers,New York Giants,lowvig,2024-11-06 22:23:14+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-110,40.5,2024-11-10,Carolina Panthers,New York Giants,williamhill_us,2024-11-06 22:22:02+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,44,0.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betmgm,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-102,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,lowvig,2024-11-30 17:40:41+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-115,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betonlineag,2024-11-27 16:02:02+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-109,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betrivers,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betus,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,draftkings,2024-11-27 16:02:02+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,fanduel,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-105,40.5,2024-12-08,New York Giants,New Orleans Saints,fanduel,2024-11-30 17:40:42+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,44,
+Over,-113,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,lowvig,2024-11-27 16:02:02+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-110,44.0,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,williamhill_us,2024-11-21 18:41:25+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-110,48.5,2024-12-01,Atlanta Falcons,Los Angeles Chargers,fanduel,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betmgm,2024-11-30 17:39:20+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,45.5,2024-10-27,Houston Texans,Indianapolis Colts,betmgm,2024-10-25 18:34:47+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-115,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betonlineag,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-112,49.0,2024-11-11,Houston Texans,Detroit Lions,betrivers,2024-11-06 22:23:15+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,42,1.0
+Over,-112,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betrivers,2024-11-30 17:40:43+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-110,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,betus,2024-11-27 16:02:03+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betus,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,betmgm,2024-11-27 16:02:03+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,draftkings,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,47.5,2024-11-24,Green Bay Packers,San Francisco 49ers,betmgm,2024-11-21 18:42:41+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,fanduel,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-112,45.5,2024-10-27,Houston Texans,Indianapolis Colts,fanduel,2024-10-25 18:34:46+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-113,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,lowvig,2024-11-30 17:40:41+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-110,40.5,2024-11-17,Chicago Bears,Green Bay Packers,betmgm,2024-11-13 21:26:39+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-112,41.5,2024-12-01,New York Jets,Seattle Seahawks,draftkings,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-115,40.0,2024-11-17,Chicago Bears,Green Bay Packers,betonlineag,2024-11-13 21:26:47+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,42,0.0
+Over,-107,40.5,2024-11-17,Chicago Bears,Green Bay Packers,betrivers,2024-11-13 21:26:39+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-110,40.5,2024-11-17,Chicago Bears,Green Bay Packers,betus,2024-11-13 21:26:32+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-110,44.5,2024-11-17,Chicago Bears,Green Bay Packers,draftkings,2024-11-06 22:23:14+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,44,1.0
+Over,-110,40.5,2024-11-17,Chicago Bears,Green Bay Packers,fanduel,2024-11-13 21:27:06+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-113,40.0,2024-11-17,Chicago Bears,Green Bay Packers,lowvig,2024-11-13 21:26:42+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-110,44.5,2024-11-17,Chicago Bears,Green Bay Packers,williamhill_us,2024-11-06 22:22:02+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,44,1.0
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,betmgm,2024-11-21 18:42:41+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,betonlineag,2024-11-18 19:22:27+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-112,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,draftkings,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-112,39.0,2024-11-24,Chicago Bears,Minnesota Vikings,betrivers,2024-11-21 18:42:42+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-110,39.0,2024-11-24,Chicago Bears,Minnesota Vikings,betus,2024-11-21 18:41:26+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,draftkings,2024-11-18 19:22:37+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-105,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,fanduel,2024-11-21 18:42:42+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,40,1.0
+Over,-107,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,lowvig,2024-11-18 19:21:49+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,40,1.0
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,williamhill_us,2024-11-21 18:41:25+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-110,44.5,2024-12-01,Jacksonville Jaguars,Houston Texans,fanduel,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,47,
+Over,-110,39.0,2024-11-10,Chicago Bears,New England Patriots,betmgm,2024-11-06 22:23:17+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-115,38.5,2024-11-10,Chicago Bears,New England Patriots,betonlineag,2024-11-06 22:23:15+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,41,0.0
+Over,-113,39.0,2024-11-10,Chicago Bears,New England Patriots,betrivers,2024-11-06 22:23:15+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-110,38.5,2024-11-10,Chicago Bears,New England Patriots,betus,2024-11-06 22:23:16+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-112,38.5,2024-11-10,Chicago Bears,New England Patriots,draftkings,2024-11-06 22:23:14+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-115,38.5,2024-11-10,Chicago Bears,New England Patriots,fanduel,2024-11-06 22:23:16+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,41,0.0
+Over,-113,38.5,2024-11-10,Chicago Bears,New England Patriots,lowvig,2024-11-06 22:23:14+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-110,39.0,2024-11-10,Chicago Bears,New England Patriots,williamhill_us,2024-11-06 22:22:02+00:00,23,20.1,9,20.0,31,16.4,19,23.5,22.0,10,42,0.0
+Over,-110,46.5,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,betmgm,2024-10-30 14:56:40+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-112,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,betonlineag,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-114,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betrivers,2024-11-30 17:40:43+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-112,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,betrivers,2024-10-30 14:57:57+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-110,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,betus,2024-10-30 14:57:57+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-108,46.5,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,draftkings,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,54,1.0
+Over,-105,46.5,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,fanduel,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,54,1.0
+Over,-109,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,lowvig,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-115,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betonlineag,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-110,46.5,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,williamhill_us,2024-10-30 14:57:15+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-110,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,betmgm,2024-10-25 18:34:47+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,46,0.0
+Over,-110,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,betonlineag,2024-10-25 18:34:46+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,46,0.0
+Over,-112,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,betrivers,2024-10-25 18:34:47+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,45,0.0
+Over,-110,47.5,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,betus,2024-10-25 18:31:56+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,45,0.0
+Over,-113,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,lowvig,2024-11-30 17:40:41+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-108,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,draftkings,2024-10-25 18:33:18+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,46,0.0
+Over,-115,47.5,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,fanduel,2024-10-25 18:34:46+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,45,0.0
+Over,-107,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,lowvig,2024-10-25 18:34:46+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,46,0.0
+Over,-115,48.0,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,williamhill_us,2024-10-25 18:29:06+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,45,0.0
+Over,-110,48.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betmgm,2024-11-27 16:02:03+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-115,48.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betonlineag,2024-11-27 16:02:02+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-112,48.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betrivers,2024-11-27 16:02:03+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-110,48.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betus,2024-11-27 16:02:03+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-112,48.5,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,draftkings,2024-11-27 16:02:02+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-115,47.5,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,fanduel,2024-11-27 16:02:03+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-113,48.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,lowvig,2024-11-27 16:02:02+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-110,47.5,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,williamhill_us,2024-11-21 18:41:25+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betmgm,2024-11-30 17:39:20+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-115,40.0,2024-11-10,Carolina Panthers,New York Giants,betonlineag,2024-11-06 22:23:15+00:00,29,17.6,32,30.9,32,15.3,18,23.3,37.0,10,43,0.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betonlineag,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-109,47.5,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betrivers,2024-11-30 17:40:43+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-102,41.5,2024-11-24,Carolina Panthers,Kansas City Chiefs,lowvig,2024-11-18 19:21:49+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,betus,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-105,43.0,2024-11-24,Carolina Panthers,Kansas City Chiefs,betonlineag,2024-11-21 18:42:41+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-110,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,draftkings,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-110,47.5,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,fanduel,2024-11-30 17:40:42+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,41,
+Over,-107,47.0,2024-12-01,Cincinnati Bengals,Pittsburgh Steelers,lowvig,2024-11-30 17:40:41+00:00,6,27.0,28,26.9,14,22.9,3,16.9,,13,42,
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,betmgm,2024-10-25 18:34:47+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,draftkings,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-105,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,betonlineag,2024-10-25 18:34:46+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,betrivers,2024-10-25 18:34:47+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,betus,2024-10-25 18:31:56+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,draftkings,2024-10-25 18:33:18+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,fanduel,2024-10-25 18:34:46+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,42.0,2024-12-01,New England Patriots,Indianapolis Colts,betus,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-102,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,lowvig,2024-10-25 18:34:46+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,54,1.0
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,williamhill_us,2024-10-25 18:29:06+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,betmgm,2024-10-30 14:56:40+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-110,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,betonlineag,2024-10-30 14:57:56+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-109,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,betrivers,2024-10-30 14:57:57+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-110,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,betus,2024-10-30 14:57:57+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,fanduel,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,draftkings,2024-10-30 14:57:56+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-115,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,fanduel,2024-10-30 14:57:56+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-107,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,lowvig,2024-10-30 14:57:56+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,36,1.0
+Over,-110,42.0,2024-11-03,Cleveland Browns,Los Angeles Chargers,williamhill_us,2024-10-30 14:57:15+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-105,37.0,2024-11-22,Cleveland Browns,Pittsburgh Steelers,betmgm,2024-11-21 18:42:41+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,37,0.0
+Over,-105,37.0,2024-11-22,Cleveland Browns,Pittsburgh Steelers,betonlineag,2024-11-21 18:42:41+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,37,0.0
+Over,-112,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,betrivers,2024-11-21 18:42:42+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,36,0.0
+Over,-110,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,betus,2024-11-21 18:41:26+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,36,0.0
+Over,-112,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,draftkings,2024-11-21 18:42:41+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,36,0.0
+Over,-115,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,fanduel,2024-11-21 18:42:42+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,35,0.0
+Over,-109,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betrivers,2024-11-30 17:40:43+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-107,36.0,2024-11-22,Cleveland Browns,Pittsburgh Steelers,lowvig,2024-11-18 19:21:49+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,36,0.0
+Over,-105,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,williamhill_us,2024-11-21 18:41:25+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,37,1.0
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,betonlineag,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,draftkings,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,fanduel,2024-11-27 16:02:03+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-112,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betonlineag,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,42,
+Over,-107,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,lowvig,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,57,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,betrivers,2024-11-30 17:40:43+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,draftkings,2024-11-30 17:40:42+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,fanduel,2024-11-30 17:40:42+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-110,41.0,2024-11-19,Dallas Cowboys,Houston Texans,betmgm,2024-11-18 19:22:01+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,47,1.0
+Over,-110,41.0,2024-11-19,Dallas Cowboys,Houston Texans,betonlineag,2024-11-18 19:22:27+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,47,1.0
+Over,-109,41.0,2024-11-19,Dallas Cowboys,Houston Texans,betrivers,2024-11-18 19:22:28+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,47,1.0
+Over,-115,41.0,2024-11-19,Dallas Cowboys,Houston Texans,betus,2024-11-18 19:22:01+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,46,1.0
+Over,-109,42.5,2024-12-01,New England Patriots,Indianapolis Colts,lowvig,2024-11-30 17:40:41+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,41.0,2024-11-19,Dallas Cowboys,Houston Texans,draftkings,2024-11-18 19:22:37+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,46,1.0
+Over,-102,41.5,2024-11-19,Dallas Cowboys,Houston Texans,fanduel,2024-11-18 19:21:49+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,48,1.0
+Over,-108,41.0,2024-11-19,Dallas Cowboys,Houston Texans,lowvig,2024-11-18 19:21:49+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,47,1.0
+Over,-110,41.0,2024-11-19,Dallas Cowboys,Houston Texans,williamhill_us,2024-11-18 19:20:29+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,47,1.0
+Over,-115,37.0,2024-11-28,Dallas Cowboys,New York Giants,betmgm,2024-11-27 16:02:03+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-110,37.0,2024-11-28,Dallas Cowboys,New York Giants,betonlineag,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-109,37.0,2024-11-28,Dallas Cowboys,New York Giants,betrivers,2024-11-27 16:02:03+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-110,37.0,2024-11-28,Dallas Cowboys,New York Giants,betus,2024-11-27 16:02:03+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-110,37.0,2024-11-28,Dallas Cowboys,New York Giants,draftkings,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-115,38.5,2024-11-28,Dallas Cowboys,New York Giants,fanduel,2024-11-21 18:42:42+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,42,1.0
+Over,-107,37.0,2024-11-28,Dallas Cowboys,New York Giants,lowvig,2024-11-27 16:02:02+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,43,1.0
+Over,-110,39.5,2024-11-28,Dallas Cowboys,New York Giants,williamhill_us,2024-11-21 18:41:25+00:00,21,20.7,30,28.3,32,15.3,18,23.3,47.0,13,43,1.0
+Over,-110,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,betmgm,2024-11-06 22:23:17+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-115,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,betonlineag,2024-11-06 22:23:15+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-108,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,betrivers,2024-11-06 22:23:15+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,44,0.0
+Over,-110,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,betus,2024-11-06 22:23:16+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-110,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,draftkings,2024-11-06 22:23:14+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-115,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,fanduel,2024-11-06 22:23:16+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-113,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,lowvig,2024-11-06 22:23:14+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-110,42.5,2024-11-10,Dallas Cowboys,Philadelphia Eagles,williamhill_us,2024-11-06 22:22:02+00:00,21,20.7,30,28.3,7,26.9,6,18.1,40.0,10,43,0.0
+Over,-110,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,betmgm,2024-11-13 21:26:39+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,0.0
+Over,-110,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,betonlineag,2024-11-13 21:26:47+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,0.0
+Over,-113,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,betrivers,2024-11-13 21:26:39+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,0.0
+Over,-110,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,betus,2024-11-13 21:26:32+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,0.0
+Over,-110,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,draftkings,2024-11-13 21:26:39+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,0.0
+Over,-110,43.5,2024-11-17,Denver Broncos,Atlanta Falcons,fanduel,2024-11-06 22:23:16+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,1.0
+Over,-110,42.0,2024-12-01,New York Jets,Seattle Seahawks,betus,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-107,44.0,2024-11-17,Denver Broncos,Atlanta Falcons,lowvig,2024-11-06 22:23:14+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,50,0.0
+Over,-110,43.5,2024-11-17,Denver Broncos,Atlanta Falcons,williamhill_us,2024-11-06 22:22:02+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,1.0
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,betmgm,2024-10-25 18:34:47+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,betonlineag,2024-10-25 18:34:46+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-109,41.0,2024-10-27,Denver Broncos,Carolina Panthers,betrivers,2024-10-25 18:34:47+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,betus,2024-10-25 18:31:56+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,draftkings,2024-10-25 18:33:18+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-107,42.0,2024-12-01,New York Jets,Seattle Seahawks,lowvig,2024-11-30 17:40:41+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-114,40.5,2024-10-27,Denver Broncos,Carolina Panthers,fanduel,2024-10-25 18:34:46+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-107,41.0,2024-10-27,Denver Broncos,Carolina Panthers,lowvig,2024-10-25 18:34:46+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,53,1.0
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,williamhill_us,2024-10-25 18:29:06+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-110,42.0,2024-12-03,Denver Broncos,Cleveland Browns,betmgm,2024-11-27 16:02:03+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-110,42.0,2024-12-03,Denver Broncos,Cleveland Browns,betonlineag,2024-11-27 16:02:02+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-109,42.5,2024-12-03,Denver Broncos,Cleveland Browns,betrivers,2024-11-27 16:02:03+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-110,42.5,2024-12-03,Denver Broncos,Cleveland Browns,betus,2024-11-27 16:02:03+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-110,42.0,2024-12-03,Denver Broncos,Cleveland Browns,draftkings,2024-11-27 16:02:02+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-115,41.5,2024-12-03,Denver Broncos,Cleveland Browns,fanduel,2024-11-27 16:02:03+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-107,42.0,2024-12-03,Denver Broncos,Cleveland Browns,lowvig,2024-11-27 16:02:02+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-110,40.5,2024-12-03,Denver Broncos,Cleveland Browns,williamhill_us,2024-11-21 18:41:25+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-110,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,betonlineag,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-115,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betmgm,2024-11-30 17:39:20+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-110,44.5,2024-12-08,Miami Dolphins,New York Jets,betonlineag,2024-11-27 16:02:02+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-115,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betonlineag,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-115,44.5,2024-11-17,Miami Dolphins,Las Vegas Raiders,fanduel,2024-11-06 22:23:16+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-113,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betrivers,2024-11-30 17:40:43+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-112,46.0,2024-11-24,Miami Dolphins,New England Patriots,betrivers,2024-11-21 18:42:42+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,42,0.0
+Over,-110,42.0,2024-12-03,Denver Broncos,Cleveland Browns,betus,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-115,43.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betus,2024-11-27 16:02:03+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-108,42.0,2024-12-03,Denver Broncos,Cleveland Browns,draftkings,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-105,42.5,2024-12-03,Denver Broncos,Cleveland Browns,fanduel,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-113,41.5,2024-12-03,Denver Broncos,Cleveland Browns,lowvig,2024-11-30 17:40:41+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-110,48.5,2024-11-28,Detroit Lions,Chicago Bears,betmgm,2024-11-27 16:02:03+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,52,0.0
+Over,-110,48.5,2024-11-28,Detroit Lions,Chicago Bears,betonlineag,2024-11-21 18:42:41+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,52,0.0
+Over,-112,48.0,2024-11-28,Detroit Lions,Chicago Bears,betrivers,2024-11-27 16:02:03+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,52,0.0
+Over,-110,48.5,2024-11-28,Detroit Lions,Chicago Bears,betus,2024-11-27 16:02:03+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,52,0.0
+Over,-108,48.5,2024-11-28,Detroit Lions,Chicago Bears,draftkings,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,53,0.0
+Over,-105,44.5,2024-12-01,Washington Commanders,Tennessee Titans,fanduel,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-105,48.5,2024-11-28,Detroit Lions,Chicago Bears,fanduel,2024-11-27 16:02:03+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,53,0.0
+Over,-107,48.5,2024-11-28,Detroit Lions,Chicago Bears,lowvig,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,53,0.0
+Over,-110,48.5,2024-11-28,Detroit Lions,Chicago Bears,williamhill_us,2024-11-21 18:41:25+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,52,0.0
+Over,-110,51.5,2024-12-06,Detroit Lions,Green Bay Packers,betonlineag,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-110,51.0,2024-12-06,Detroit Lions,Green Bay Packers,draftkings,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-105,51.5,2024-12-06,Detroit Lions,Green Bay Packers,fanduel,2024-11-27 16:02:03+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-107,51.5,2024-12-06,Detroit Lions,Green Bay Packers,lowvig,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-110,51.5,2024-12-06,Detroit Lions,Green Bay Packers,betmgm,2024-11-30 17:39:20+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betus,2024-11-27 16:02:03+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,51.0,2024-12-06,Detroit Lions,Green Bay Packers,betrivers,2024-11-30 17:40:43+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,56,
+Over,-110,46.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,draftkings,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,51.5,2024-12-06,Detroit Lions,Green Bay Packers,draftkings,2024-11-30 17:40:42+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,betus,2024-10-30 14:57:57+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-105,51.5,2024-12-06,Detroit Lions,Green Bay Packers,fanduel,2024-11-30 17:40:42+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-110,47.0,2024-11-17,Detroit Lions,Jacksonville Jaguars,betmgm,2024-11-13 21:26:39+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-110,46.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,betonlineag,2024-11-13 21:26:47+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-115,47.0,2024-11-17,Detroit Lions,Jacksonville Jaguars,betrivers,2024-11-13 21:26:39+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-110,46.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,betus,2024-11-13 21:26:32+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-115,44.0,2024-12-01,Washington Commanders,Tennessee Titans,betrivers,2024-11-30 17:40:43+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,51,
+Over,-110,51.0,2024-11-17,Detroit Lions,Jacksonville Jaguars,draftkings,2024-11-06 22:23:14+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,64,1.0
+Over,-110,50.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,fanduel,2024-11-06 22:23:16+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,64,1.0
+Over,-107,46.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,lowvig,2024-11-13 21:26:42+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,64,1.0
+Over,-110,46.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,williamhill_us,2024-11-13 21:26:53+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-110,45.0,2024-10-27,Detroit Lions,Tennessee Titans,betmgm,2024-10-25 18:34:47+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betonlineag,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-113,44.5,2024-10-27,Detroit Lions,Tennessee Titans,betonlineag,2024-10-25 18:34:46+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-109,44.5,2024-10-27,Detroit Lions,Tennessee Titans,betrivers,2024-10-25 18:34:47+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,45.0,2024-10-27,Detroit Lions,Tennessee Titans,betus,2024-10-25 18:31:56+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-108,45.0,2024-10-27,Detroit Lions,Tennessee Titans,draftkings,2024-10-25 18:33:18+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,44.5,2024-10-27,Detroit Lions,Tennessee Titans,fanduel,2024-10-25 18:34:46+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,44.5,2024-10-27,Detroit Lions,Tennessee Titans,lowvig,2024-10-25 18:34:46+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-107,44.5,2024-12-01,Washington Commanders,Tennessee Titans,lowvig,2024-11-30 17:40:41+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,45.0,2024-10-27,Detroit Lions,Tennessee Titans,williamhill_us,2024-10-25 18:29:06+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,48.5,2024-11-03,Green Bay Packers,Detroit Lions,betmgm,2024-10-30 14:56:40+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,46,1.0
+Over,-107,48.5,2024-11-03,Green Bay Packers,Detroit Lions,betonlineag,2024-10-30 14:57:56+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,47,1.0
+Over,-107,48.5,2024-11-03,Green Bay Packers,Detroit Lions,betrivers,2024-10-30 14:57:57+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,47,1.0
+Over,-110,48.0,2024-11-03,Green Bay Packers,Detroit Lions,betus,2024-10-30 14:57:57+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,46,1.0
+Over,-108,48.5,2024-11-03,Green Bay Packers,Detroit Lions,draftkings,2024-10-30 14:57:56+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,47,1.0
+Over,-105,48.5,2024-11-03,Green Bay Packers,Detroit Lions,fanduel,2024-10-30 14:57:56+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,47,1.0
+Over,-104,48.5,2024-11-03,Green Bay Packers,Detroit Lions,lowvig,2024-10-30 14:57:56+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,47,1.0
+Over,-110,48.5,2024-11-03,Green Bay Packers,Detroit Lions,williamhill_us,2024-10-30 14:57:15+00:00,8,26.5,9,20.0,1,31.9,4,16.9,38.0,9,46,1.0
+Over,-110,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,betmgm,2024-11-27 16:02:03+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,draftkings,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-105,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,betonlineag,2024-11-27 16:02:02+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-108,47.5,2024-11-29,Green Bay Packers,Miami Dolphins,betrivers,2024-11-21 18:42:42+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,betus,2024-11-27 16:02:03+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betus,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-108,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,draftkings,2024-11-27 16:02:02+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-102,47.5,2024-11-29,Green Bay Packers,Miami Dolphins,fanduel,2024-11-27 16:02:03+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,46,1.0
+Over,-102,47.0,2024-11-29,Green Bay Packers,Miami Dolphins,lowvig,2024-11-27 16:02:02+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,46,1.0
+Over,-110,47.5,2024-11-29,Green Bay Packers,Miami Dolphins,williamhill_us,2024-11-21 18:41:25+00:00,8,26.5,9,20.0,24,19.3,13,22.2,47.0,13,45,1.0
+Over,-110,47.5,2024-11-24,Green Bay Packers,San Francisco 49ers,betmgm,2024-11-21 18:42:41+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,fanduel,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-110,47.0,2024-11-24,Green Bay Packers,San Francisco 49ers,betonlineag,2024-11-21 18:42:41+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-113,47.0,2024-11-24,Green Bay Packers,San Francisco 49ers,betrivers,2024-11-21 18:42:42+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-110,47.0,2024-11-24,Green Bay Packers,San Francisco 49ers,betus,2024-11-21 18:41:26+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-108,47.5,2024-11-24,Green Bay Packers,San Francisco 49ers,draftkings,2024-11-21 18:42:41+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-115,47.5,2024-11-24,Green Bay Packers,San Francisco 49ers,fanduel,2024-11-18 19:21:49+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,49,1.0
+Over,-107,48.0,2024-11-24,Green Bay Packers,San Francisco 49ers,lowvig,2024-11-13 21:26:42+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,51,0.0
+Over,-110,47.5,2024-11-24,Green Bay Packers,San Francisco 49ers,williamhill_us,2024-11-21 18:41:25+00:00,8,26.5,9,20.0,13,23.6,20,23.6,48.0,12,50,1.0
+Over,-110,49.0,2024-11-11,Houston Texans,Detroit Lions,betmgm,2024-11-06 22:23:17+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-107,49.0,2024-11-11,Houston Texans,Detroit Lions,betonlineag,2024-11-06 22:23:15+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-112,49.0,2024-11-11,Houston Texans,Detroit Lions,betrivers,2024-11-06 22:23:15+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,42,1.0
+Over,-112,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betrivers,2024-11-30 17:40:43+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-115,48.5,2024-11-11,Houston Texans,Detroit Lions,betus,2024-11-06 22:23:16+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,42,0.0
+Over,-108,49.0,2024-11-11,Houston Texans,Detroit Lions,draftkings,2024-11-06 22:23:14+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-105,49.5,2024-11-11,Houston Texans,Detroit Lions,fanduel,2024-11-06 22:23:16+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-104,49.0,2024-11-11,Houston Texans,Detroit Lions,lowvig,2024-11-06 22:23:14+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-110,49.0,2024-11-11,Houston Texans,Detroit Lions,williamhill_us,2024-11-06 22:22:02+00:00,12,23.8,15,22.3,1,31.9,4,16.9,49.0,10,43,1.0
+Over,-110,45.5,2024-10-27,Houston Texans,Indianapolis Colts,betmgm,2024-10-25 18:34:47+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-115,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,betonlineag,2024-11-30 17:40:42+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-110,45.5,2024-10-27,Houston Texans,Indianapolis Colts,betonlineag,2024-10-25 18:34:46+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-110,45.5,2024-10-27,Houston Texans,Indianapolis Colts,betrivers,2024-10-25 18:34:47+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-110,45.0,2024-10-27,Houston Texans,Indianapolis Colts,betus,2024-10-25 18:31:56+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-112,45.0,2024-10-27,Houston Texans,Indianapolis Colts,draftkings,2024-10-25 18:33:18+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-112,45.5,2024-10-27,Houston Texans,Indianapolis Colts,fanduel,2024-10-25 18:34:46+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-113,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,lowvig,2024-11-30 17:40:41+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,55,
+Over,-107,45.5,2024-10-27,Houston Texans,Indianapolis Colts,lowvig,2024-10-25 18:34:46+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,43,1.0
+Over,-110,45.5,2024-10-27,Houston Texans,Indianapolis Colts,williamhill_us,2024-10-25 18:29:06+00:00,12,23.8,15,22.3,22,20.2,16,22.8,43.0,8,42,1.0
+Over,-110,40.5,2024-11-24,Houston Texans,Tennessee Titans,betmgm,2024-11-21 18:42:41+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-108,40.5,2024-11-24,Houston Texans,Tennessee Titans,betonlineag,2024-11-21 18:42:41+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-110,40.5,2024-11-24,Houston Texans,Tennessee Titans,betrivers,2024-11-21 18:42:42+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-110,40.0,2024-11-24,Houston Texans,Tennessee Titans,betus,2024-11-21 18:41:26+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-108,40.5,2024-11-24,Houston Texans,Tennessee Titans,draftkings,2024-11-21 18:42:41+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-115,40.5,2024-11-24,Houston Texans,Tennessee Titans,fanduel,2024-11-21 18:42:42+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,45,1.0
+Over,-110,41.5,2024-11-24,Houston Texans,Tennessee Titans,williamhill_us,2024-11-18 19:20:29+00:00,12,23.8,15,22.3,28,18.4,27,26.4,59.0,12,46,1.0
+Over,-110,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,betmgm,2024-11-06 22:23:17+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-115,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,betonlineag,2024-11-06 22:23:15+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,44,0.0
+Over,-110,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,betrivers,2024-11-06 22:23:15+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-110,48.5,2024-11-10,Indianapolis Colts,Buffalo Bills,betus,2024-11-06 22:23:16+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-108,48.5,2024-11-10,Indianapolis Colts,Buffalo Bills,draftkings,2024-11-06 22:23:14+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-115,47.5,2024-11-10,Indianapolis Colts,Buffalo Bills,fanduel,2024-11-06 22:23:16+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,44,0.0
+Over,-113,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,lowvig,2024-11-06 22:23:14+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-110,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,williamhill_us,2024-11-06 22:22:02+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-108,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,draftkings,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,betmgm,2024-11-21 18:42:41+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-110,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,betonlineag,2024-11-18 19:22:27+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-112,50.0,2024-11-24,Indianapolis Colts,Detroit Lions,betrivers,2024-11-21 18:42:42+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,44,1.0
+Over,-110,50.0,2024-11-24,Indianapolis Colts,Detroit Lions,betus,2024-11-21 18:41:26+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,44,1.0
+Over,-110,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,draftkings,2024-11-21 18:42:41+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betus,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-105,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,fanduel,2024-11-21 18:42:42+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-107,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,lowvig,2024-11-18 19:21:49+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-110,50.0,2024-11-24,Indianapolis Colts,Detroit Lions,williamhill_us,2024-11-21 18:41:25+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,44,1.0
+Over,-110,49.5,2024-10-27,Jacksonville Jaguars,Green Bay Packers,betmgm,2024-10-25 18:34:47+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,46,0.0
+Over,-105,50.0,2024-10-27,Jacksonville Jaguars,Green Bay Packers,betonlineag,2024-10-25 18:34:46+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,47,0.0
+Over,-106,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,fanduel,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-108,49.0,2024-10-27,Jacksonville Jaguars,Green Bay Packers,betrivers,2024-10-25 18:34:47+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,46,0.0
+Over,-110,49.5,2024-10-27,Jacksonville Jaguars,Green Bay Packers,betus,2024-10-25 18:31:56+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,46,0.0
+Over,-112,49.0,2024-10-27,Jacksonville Jaguars,Green Bay Packers,draftkings,2024-10-25 18:33:18+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,46,0.0
+Over,-105,49.5,2024-10-27,Jacksonville Jaguars,Green Bay Packers,fanduel,2024-10-25 18:34:46+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,47,0.0
+Over,-102,50.0,2024-10-27,Jacksonville Jaguars,Green Bay Packers,lowvig,2024-10-25 18:34:46+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,47,0.0
+Over,-110,49.5,2024-10-27,Jacksonville Jaguars,Green Bay Packers,williamhill_us,2024-10-25 18:29:06+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,46,0.0
+Over,-110,43.5,2024-12-01,Jacksonville Jaguars,Houston Texans,betmgm,2024-11-27 16:02:03+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-115,43.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betonlineag,2024-11-27 16:02:02+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-115,43.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betrivers,2024-11-27 16:02:03+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-115,43.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betus,2024-11-27 16:02:03+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-108,42.0,2024-12-03,Denver Broncos,Cleveland Browns,draftkings,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-105,43.5,2024-12-01,Jacksonville Jaguars,Houston Texans,draftkings,2024-11-27 16:02:02+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,47,
+Over,-115,43.5,2024-12-01,Jacksonville Jaguars,Houston Texans,fanduel,2024-11-27 16:02:03+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-113,43.0,2024-12-01,Jacksonville Jaguars,Houston Texans,lowvig,2024-11-27 16:02:02+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-110,42.5,2024-12-01,Jacksonville Jaguars,Houston Texans,williamhill_us,2024-11-21 18:41:25+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-108,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betrivers,2024-11-30 17:40:43+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betmgm,2024-11-30 17:39:20+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,47,
+Over,-109,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,lowvig,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-115,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betonlineag,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-112,46.0,2024-11-03,Cincinnati Bengals,Las Vegas Raiders,betonlineag,2024-10-30 14:57:56+00:00,6,27.0,28,26.9,26,18.6,29,27.8,65.0,9,53,1.0
+Over,-114,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betrivers,2024-11-30 17:40:43+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-110,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,betus,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,47,
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,betonlineag,2024-11-18 19:22:27+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-112,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,draftkings,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-110,39.5,2024-11-24,Chicago Bears,Minnesota Vikings,williamhill_us,2024-11-21 18:41:25+00:00,23,20.1,9,20.0,9,24.9,5,17.9,57.0,12,39,0.0
+Over,-110,44.5,2024-12-01,Jacksonville Jaguars,Houston Texans,fanduel,2024-11-30 17:40:42+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,47,
+Over,-110,47.5,2024-10-27,Cincinnati Bengals,Philadelphia Eagles,betus,2024-10-25 18:31:56+00:00,6,27.0,28,26.9,7,26.9,6,18.1,54.0,8,45,0.0
+Over,-113,44.0,2024-12-01,Jacksonville Jaguars,Houston Texans,lowvig,2024-11-30 17:40:41+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-105,45.5,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,betmgm,2024-11-06 22:23:17+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-110,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,betonlineag,2024-11-06 22:23:15+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-112,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,betrivers,2024-11-06 22:23:15+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,41,1.0
+Over,-110,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,betus,2024-11-06 22:23:16+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-110,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,draftkings,2024-11-06 22:23:14+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-105,45.5,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,fanduel,2024-11-06 22:23:16+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-107,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,lowvig,2024-11-06 22:23:14+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-110,45.0,2024-11-10,Jacksonville Jaguars,Minnesota Vikings,williamhill_us,2024-11-06 22:22:02+00:00,25,18.9,31,28.7,9,24.9,5,17.9,19.0,10,42,1.0
+Over,-110,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,betmgm,2024-11-06 22:23:17+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,32,1.0
+Over,-115,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,betonlineag,2024-11-06 22:23:15+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,31,1.0
+Over,-112,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,betrivers,2024-11-06 22:23:15+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,31,1.0
+Over,-110,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,betus,2024-11-06 22:23:16+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,32,1.0
+Over,-112,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,draftkings,2024-11-06 22:23:14+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,31,1.0
+Over,-110,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,fanduel,2024-11-06 22:23:16+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,32,1.0
+Over,-113,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,lowvig,2024-11-06 22:23:14+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,31,1.0
+Over,-110,41.5,2024-11-10,Kansas City Chiefs,Denver Broncos,williamhill_us,2024-11-06 22:22:02+00:00,10,24.1,8,19.6,19,22.0,2,16.8,30.0,10,32,1.0
+Over,-112,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,draftkings,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,betmgm,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,betonlineag,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-112,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,betrivers,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-101,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,lowvig,2024-11-30 17:40:41+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,betus,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,draftkings,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,fanduel,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-114,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,fanduel,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-107,42.5,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,lowvig,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,44.0,2024-11-29,Kansas City Chiefs,Las Vegas Raiders,williamhill_us,2024-11-21 18:41:25+00:00,10,24.1,8,19.6,26,18.6,29,27.8,36.0,13,45,0.0
+Over,-110,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betus,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,45.0,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,betonlineag,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,32,
+Over,-110,44.5,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,draftkings,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,31,
+Over,-105,45.5,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,fanduel,2024-11-27 16:02:03+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,32,
+Over,-107,45.0,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,lowvig,2024-11-27 16:02:02+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,32,
+Over,-104,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betonlineag,2024-11-30 17:40:42+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,53,
+Over,-110,45.0,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,betus,2024-11-30 17:40:42+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,32,
+Over,-110,44.5,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,draftkings,2024-11-30 17:40:42+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,31,
+Over,-115,45.5,2024-12-09,Kansas City Chiefs,Los Angeles Chargers,fanduel,2024-11-30 17:40:42+00:00,10,24.1,8,19.6,18,22.1,1,15.9,,14,31,
+Over,-110,46.0,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,betmgm,2024-10-30 14:56:40+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-110,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,betonlineag,2024-10-30 14:57:56+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-110,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,betrivers,2024-10-30 14:57:57+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-110,46.0,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,betus,2024-10-30 14:57:57+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-112,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,draftkings,2024-10-30 14:57:56+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,47,1.0
+Over,-115,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,fanduel,2024-10-30 14:57:56+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,47,1.0
+Over,-107,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,lowvig,2024-10-30 14:57:56+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-110,45.5,2024-11-05,Kansas City Chiefs,Tampa Bay Buccaneers,williamhill_us,2024-10-30 14:57:15+00:00,10,24.1,8,19.6,4,28.1,24,24.8,54.0,9,48,1.0
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,betmgm,2024-11-21 18:42:41+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,betonlineag,2024-11-18 19:22:27+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-112,50.5,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betrivers,2024-11-30 17:40:43+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,betrivers,2024-11-21 18:42:42+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,betus,2024-11-21 18:41:26+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,draftkings,2024-11-21 18:42:41+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-105,41.5,2024-11-24,Las Vegas Raiders,Denver Broncos,fanduel,2024-11-21 18:42:42+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-107,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,lowvig,2024-11-18 19:21:49+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,51.0,2024-12-01,Baltimore Ravens,Philadelphia Eagles,betmgm,2024-11-30 17:39:20+00:00,2,30.3,23,24.5,7,26.9,6,18.1,,13,52,
+Over,-110,41.0,2024-11-24,Las Vegas Raiders,Denver Broncos,williamhill_us,2024-11-21 18:41:25+00:00,26,18.6,29,27.8,19,22.0,2,16.8,48.0,12,38,0.0
+Over,-110,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,betmgm,2024-10-25 18:34:47+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,42,1.0
+Over,-105,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,betonlineag,2024-10-25 18:34:46+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,43,1.0
+Over,-112,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,betrivers,2024-10-25 18:34:47+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,42,1.0
+Over,-110,41.0,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,betus,2024-10-25 18:31:56+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,42,1.0
+Over,-108,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,draftkings,2024-10-25 18:33:18+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,43,1.0
+Over,-110,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,fanduel,2024-10-25 18:34:46+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,42,1.0
+Over,-102,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,lowvig,2024-10-25 18:34:46+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,43,1.0
+Over,-110,41.5,2024-10-27,Las Vegas Raiders,Kansas City Chiefs,williamhill_us,2024-10-25 18:29:06+00:00,26,18.6,29,27.8,10,24.1,8,19.6,47.0,8,42,1.0
+Over,-110,51.0,2024-11-26,Los Angeles Chargers,Baltimore Ravens,betmgm,2024-11-24 21:58:49+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,betonlineag,2024-11-24 21:58:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,draftkings,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,betrivers,2024-11-24 21:58:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,50.0,2024-11-26,Los Angeles Chargers,Baltimore Ravens,betus,2024-11-24 21:58:17+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,draftkings,2024-11-24 21:58:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,fanduel,2024-11-24 21:58:48+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-107,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,lowvig,2024-11-24 21:58:48+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,54,1.0
+Over,-110,50.5,2024-11-26,Los Angeles Chargers,Baltimore Ravens,williamhill_us,2024-11-24 21:57:47+00:00,18,22.1,1,15.9,2,30.3,23,24.5,53.0,12,53,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betonlineag,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,47.5,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,betmgm,2024-11-13 21:26:39+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,54,1.0
+Over,-110,45.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,betonlineag,2024-11-06 22:23:15+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-112,47.5,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,betrivers,2024-11-13 21:26:39+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-110,48.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,betus,2024-11-13 21:26:32+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,54,1.0
+Over,-110,44.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,draftkings,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-107,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,lowvig,2024-11-30 17:40:41+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,44.5,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,fanduel,2024-11-06 22:23:16+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-107,45.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,lowvig,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-110,44.0,2024-11-18,Los Angeles Chargers,Cincinnati Bengals,williamhill_us,2024-11-06 22:22:02+00:00,18,22.1,1,15.9,6,27.0,28,26.9,61.0,11,53,1.0
+Over,-115,40.5,2024-10-27,Los Angeles Chargers,New Orleans Saints,betmgm,2024-10-25 18:34:47+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,45,0.0
+Over,-110,41.0,2024-10-27,Los Angeles Chargers,New Orleans Saints,betonlineag,2024-10-25 18:34:46+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-115,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,fanduel,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,51,
+Over,-106,41.0,2024-10-27,Los Angeles Chargers,New Orleans Saints,betrivers,2024-10-25 18:34:47+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-110,41.5,2024-10-27,Los Angeles Chargers,New Orleans Saints,betus,2024-10-25 18:31:56+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-108,41.5,2024-10-27,Los Angeles Chargers,New Orleans Saints,draftkings,2024-10-25 18:33:18+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-115,40.5,2024-10-27,Los Angeles Chargers,New Orleans Saints,fanduel,2024-10-25 18:34:46+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,45,0.0
+Over,-107,41.0,2024-10-27,Los Angeles Chargers,New Orleans Saints,lowvig,2024-10-25 18:34:46+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-110,41.0,2024-10-27,Los Angeles Chargers,New Orleans Saints,williamhill_us,2024-10-25 18:29:06+00:00,18,22.1,1,15.9,11,23.8,20,23.6,34.0,8,46,0.0
+Over,-110,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,betmgm,2024-11-06 22:23:17+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-115,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,betonlineag,2024-11-06 22:23:15+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,45,1.0
+Over,-114,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,betrivers,2024-11-06 22:23:15+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-115,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,betus,2024-11-06 22:23:16+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,45,1.0
+Over,-108,39.0,2024-11-10,Los Angeles Chargers,Tennessee Titans,draftkings,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-112,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betrivers,2024-11-30 17:40:43+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,fanduel,2024-11-06 22:23:16+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-113,38.5,2024-11-10,Los Angeles Chargers,Tennessee Titans,lowvig,2024-11-06 22:23:14+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-110,39.0,2024-11-10,Los Angeles Chargers,Tennessee Titans,williamhill_us,2024-11-06 22:22:02+00:00,18,22.1,1,15.9,28,18.4,27,26.4,44.0,10,46,1.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betonlineag,2024-11-27 16:02:02+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,49.0,2024-12-08,Los Angeles Rams,Buffalo Bills,draftkings,2024-11-27 16:02:02+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,fanduel,2024-11-27 16:02:03+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betus,2024-11-30 17:40:42+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-107,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,lowvig,2024-11-27 16:02:02+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,williamhill_us,2024-11-21 18:41:25+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,55,1.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betonlineag,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,48.5,2024-11-17,San Francisco 49ers,Seattle Seahawks,betmgm,2024-11-13 21:26:39+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betrivers,2024-11-30 17:40:43+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,williamhill_us,2024-11-06 22:22:02+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betus,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-113,43.0,2024-10-27,Washington Commanders,Chicago Bears,betrivers,2024-10-25 18:34:47+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-110,49.0,2024-12-08,Los Angeles Rams,Buffalo Bills,draftkings,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betus,2024-11-27 16:02:03+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,fanduel,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,betus,2024-11-06 22:23:16+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-107,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,lowvig,2024-11-30 17:40:41+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,betmgm,2024-11-06 22:23:17+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,betonlineag,2024-10-30 14:57:56+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-109,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,betrivers,2024-11-06 22:23:15+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,betus,2024-11-06 22:23:16+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,44.5,2024-12-02,Buffalo Bills,San Francisco 49ers,betmgm,2024-11-30 17:39:20+00:00,3,29.1,7,19.5,13,23.6,20,23.6,,13,52,
+Over,-110,49.5,2024-11-12,Los Angeles Rams,Miami Dolphins,draftkings,2024-10-30 14:57:56+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-115,49.5,2024-11-12,Los Angeles Rams,Miami Dolphins,fanduel,2024-10-30 14:57:56+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,44,1.0
+Over,-107,50.0,2024-11-12,Los Angeles Rams,Miami Dolphins,lowvig,2024-11-06 22:23:14+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,49.5,2024-11-12,Los Angeles Rams,Miami Dolphins,williamhill_us,2024-10-30 14:57:15+00:00,20,21.2,26,25.1,24,19.3,13,22.2,38.0,10,45,1.0
+Over,-110,49.0,2024-11-25,Los Angeles Rams,Philadelphia Eagles,betmgm,2024-11-24 21:58:49+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-110,48.5,2024-11-25,Los Angeles Rams,Philadelphia Eagles,betonlineag,2024-11-24 21:58:47+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-110,48.5,2024-11-25,Los Angeles Rams,Philadelphia Eagles,betrivers,2024-11-24 21:58:47+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-110,48.5,2024-11-25,Los Angeles Rams,Philadelphia Eagles,betus,2024-11-24 21:58:17+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-112,49.0,2024-11-25,Los Angeles Rams,Philadelphia Eagles,draftkings,2024-11-24 21:58:47+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-115,48.5,2024-11-25,Los Angeles Rams,Philadelphia Eagles,fanduel,2024-11-24 21:58:48+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,43,0.0
+Over,-107,48.5,2024-11-25,Los Angeles Rams,Philadelphia Eagles,lowvig,2024-11-24 21:58:48+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-110,49.0,2024-11-25,Los Angeles Rams,Philadelphia Eagles,williamhill_us,2024-11-24 21:57:47+00:00,20,21.2,26,25.1,7,26.9,6,18.1,57.0,12,44,0.0
+Over,-110,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,betmgm,2024-10-25 18:34:47+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-110,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,betonlineag,2024-10-25 18:34:46+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-109,46.5,2024-10-27,Miami Dolphins,Arizona Cardinals,betrivers,2024-10-25 18:34:47+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,43,0.0
+Over,-110,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,betus,2024-10-25 18:31:56+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-112,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,draftkings,2024-10-25 18:33:18+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-110,46.5,2024-10-27,Miami Dolphins,Arizona Cardinals,fanduel,2024-10-25 18:34:46+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-107,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,lowvig,2024-10-25 18:34:46+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,43,0.0
+Over,-110,46.0,2024-10-27,Miami Dolphins,Arizona Cardinals,williamhill_us,2024-10-25 18:29:06+00:00,24,19.3,13,22.2,16,22.2,11,21.5,55.0,8,42,0.0
+Over,-110,44.0,2024-11-17,Miami Dolphins,Las Vegas Raiders,betmgm,2024-11-13 21:26:39+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-110,45.5,2024-11-17,Miami Dolphins,Las Vegas Raiders,betonlineag,2024-11-06 22:23:15+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-108,44.0,2024-11-17,Miami Dolphins,Las Vegas Raiders,betrivers,2024-11-13 21:26:39+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-110,44.0,2024-11-17,Miami Dolphins,Las Vegas Raiders,betus,2024-11-13 21:26:32+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-110,46.0,2024-11-17,Miami Dolphins,Las Vegas Raiders,draftkings,2024-11-06 22:23:14+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,50,1.0
+Over,-115,44.5,2024-11-17,Miami Dolphins,Las Vegas Raiders,fanduel,2024-11-06 22:23:16+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-113,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betrivers,2024-11-30 17:40:43+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-107,45.5,2024-11-17,Miami Dolphins,Las Vegas Raiders,lowvig,2024-11-06 22:23:14+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,50,1.0
+Over,-110,45.0,2024-11-17,Miami Dolphins,Las Vegas Raiders,williamhill_us,2024-11-06 22:22:02+00:00,24,19.3,13,22.2,26,18.6,29,27.8,53.0,11,49,1.0
+Over,-110,46.0,2024-11-24,Miami Dolphins,New England Patriots,betmgm,2024-11-18 19:22:01+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-110,46.0,2024-11-24,Miami Dolphins,New England Patriots,betonlineag,2024-11-21 18:42:41+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-112,46.0,2024-11-24,Miami Dolphins,New England Patriots,betrivers,2024-11-21 18:42:42+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,42,0.0
+Over,-110,42.0,2024-12-03,Denver Broncos,Cleveland Browns,betus,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,45,
+Over,-110,46.0,2024-11-24,Miami Dolphins,New England Patriots,betus,2024-11-21 18:41:26+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-112,46.0,2024-11-24,Miami Dolphins,New England Patriots,draftkings,2024-11-18 19:22:37+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,42,0.0
+Over,-105,46.5,2024-11-24,Miami Dolphins,New England Patriots,fanduel,2024-11-21 18:42:42+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-107,46.0,2024-11-24,Miami Dolphins,New England Patriots,lowvig,2024-11-18 19:21:49+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-110,46.0,2024-11-24,Miami Dolphins,New England Patriots,williamhill_us,2024-11-21 18:41:25+00:00,24,19.3,13,22.2,31,16.4,19,23.5,49.0,12,43,0.0
+Over,-110,44.5,2024-12-08,Miami Dolphins,New York Jets,betonlineag,2024-11-27 16:02:02+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-115,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betonlineag,2024-11-30 17:40:42+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-110,44.5,2024-12-08,Miami Dolphins,New York Jets,draftkings,2024-11-27 16:02:02+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-105,44.5,2024-12-08,Miami Dolphins,New York Jets,fanduel,2024-11-27 16:02:03+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-107,44.5,2024-12-08,Miami Dolphins,New York Jets,lowvig,2024-11-27 16:02:02+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-107,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,lowvig,2024-11-18 19:21:49+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-109,44.5,2024-12-08,Miami Dolphins,New York Jets,betrivers,2024-11-30 17:40:43+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-113,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,lowvig,2024-10-25 18:34:46+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,51,1.0
+Over,-110,44.5,2024-12-08,Miami Dolphins,New York Jets,draftkings,2024-11-30 17:40:42+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-110,48.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,betus,2024-11-13 21:26:32+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-105,44.5,2024-12-08,Miami Dolphins,New York Jets,fanduel,2024-11-30 17:40:42+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-110,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betmgm,2024-11-27 16:02:03+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-110,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,betonlineag,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-115,41.5,2024-12-03,Denver Broncos,Cleveland Browns,betmgm,2024-11-30 17:39:20+00:00,19,22.0,2,16.8,30,16.9,22,24.3,,13,44,
+Over,-112,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betrivers,2024-11-27 16:02:03+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-110,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,betus,2024-11-27 16:02:03+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-108,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,draftkings,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-105,46.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,fanduel,2024-11-21 18:42:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-107,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,lowvig,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-110,47.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,williamhill_us,2024-11-21 18:41:25+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-110,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betmgm,2024-11-30 17:39:20+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-110,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,betonlineag,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-109,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betrivers,2024-11-30 17:40:43+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-112,46.0,2024-11-10,Arizona Cardinals,New York Jets,betonlineag,2024-11-06 22:23:15+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,39,1.0
+Over,-110,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,betus,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-108,45.0,2024-12-01,Minnesota Vikings,Arizona Cardinals,draftkings,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-109,46.0,2024-11-10,Arizona Cardinals,New York Jets,lowvig,2024-11-06 22:23:14+00:00,16,22.2,11,21.5,27,18.5,12,22.0,37.0,10,40,1.0
+Over,-114,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,fanduel,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,39,
+Over,-107,44.5,2024-12-01,Minnesota Vikings,Arizona Cardinals,lowvig,2024-11-30 17:40:41+00:00,9,24.9,5,17.9,16,22.2,11,21.5,,13,40,
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betonlineag,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,46.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,draftkings,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,51.5,2024-12-06,Detroit Lions,Green Bay Packers,draftkings,2024-11-30 17:40:42+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-105,45.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,fanduel,2024-11-27 16:02:03+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-107,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,lowvig,2024-11-27 16:02:02+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,41.0,2024-10-27,New England Patriots,New York Jets,betmgm,2024-10-25 18:34:47+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betonlineag,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-109,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,betrivers,2024-11-13 21:26:39+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betrivers,2024-11-30 17:40:43+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-115,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,fanduel,2024-11-06 22:23:16+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betus,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-107,42.5,2024-12-01,New England Patriots,Indianapolis Colts,lowvig,2024-11-27 16:02:02+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,46.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,draftkings,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betmgm,2024-11-27 16:02:03+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,45.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,fanduel,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,45,
+Over,-112,41.0,2024-10-27,New England Patriots,New York Jets,draftkings,2024-10-25 18:33:18+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-107,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,lowvig,2024-11-30 17:40:41+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,betmgm,2024-10-30 14:56:40+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,betonlineag,2024-10-30 14:57:56+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,betrivers,2024-10-30 14:57:57+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,betus,2024-10-30 14:57:57+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-105,51.5,2024-12-06,Detroit Lions,Green Bay Packers,fanduel,2024-11-30 17:40:42+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,57,
+Over,-108,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,draftkings,2024-10-30 14:57:56+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-114,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,fanduel,2024-10-30 14:57:56+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,40,1.0
+Over,-107,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,lowvig,2024-10-30 14:57:56+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-110,46.5,2024-11-04,Minnesota Vikings,Indianapolis Colts,williamhill_us,2024-10-30 14:57:15+00:00,9,24.9,5,17.9,22,20.2,16,22.8,34.0,9,41,1.0
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betmgm,2024-11-27 16:02:03+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,45.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,fanduel,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,45,
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betonlineag,2024-11-27 16:02:02+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,42.0,2024-12-01,New England Patriots,Indianapolis Colts,betrivers,2024-11-27 16:02:03+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,42,
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betus,2024-11-27 16:02:03+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-112,51.0,2024-12-06,Detroit Lions,Green Bay Packers,betrivers,2024-11-30 17:40:43+00:00,1,31.9,4,16.9,8,26.5,9,20.0,,14,56,
+Over,-108,42.5,2024-12-01,New England Patriots,Indianapolis Colts,draftkings,2024-11-27 16:02:02+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-105,43.5,2024-12-01,New England Patriots,Indianapolis Colts,fanduel,2024-11-21 18:42:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,44,
+Over,-107,42.5,2024-12-01,New England Patriots,Indianapolis Colts,lowvig,2024-11-27 16:02:02+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,46.5,2024-12-08,Minnesota Vikings,Atlanta Falcons,draftkings,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,43.0,2024-12-01,New England Patriots,Indianapolis Colts,williamhill_us,2024-11-21 18:41:25+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betmgm,2024-11-30 17:39:20+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,45.5,2024-12-10,Dallas Cowboys,Cincinnati Bengals,fanduel,2024-11-27 16:02:03+00:00,21,20.7,30,28.3,6,27.0,28,26.9,,14,56,
+Over,-112,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betonlineag,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,42,
+Over,-115,36.5,2024-11-22,Cleveland Browns,Pittsburgh Steelers,fanduel,2024-11-21 18:42:42+00:00,30,16.9,22,24.3,14,22.9,3,16.9,43.0,12,35,0.0
+Over,-109,42.5,2024-12-01,New England Patriots,Indianapolis Colts,betrivers,2024-11-30 17:40:43+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,fanduel,2024-10-25 18:34:46+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,42.0,2024-12-01,New England Patriots,Indianapolis Colts,betus,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,44.5,2024-10-27,Cleveland Browns,Baltimore Ravens,betmgm,2024-10-25 18:34:47+00:00,30,16.9,22,24.3,2,30.3,23,24.5,53.0,8,53,1.0
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,draftkings,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,41.5,2024-11-03,Cleveland Browns,Los Angeles Chargers,betus,2024-10-30 14:57:57+00:00,30,16.9,22,24.3,18,22.1,1,15.9,37.0,9,35,1.0
+Over,-110,42.5,2024-12-01,New England Patriots,Indianapolis Colts,fanduel,2024-11-30 17:40:42+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-115,41.0,2024-11-19,Dallas Cowboys,Houston Texans,betus,2024-11-18 19:22:01+00:00,21,20.7,30,28.3,12,23.8,15,22.3,44.0,11,46,1.0
+Over,-109,42.5,2024-12-01,New England Patriots,Indianapolis Colts,lowvig,2024-11-30 17:40:41+00:00,31,16.4,19,23.5,22,20.2,16,22.8,,13,43,
+Over,-110,43.5,2024-11-17,New England Patriots,Los Angeles Rams,betmgm,2024-11-13 21:26:39+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-110,43.5,2024-11-17,New England Patriots,Los Angeles Rams,betonlineag,2024-11-13 21:26:47+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-112,43.5,2024-11-17,New England Patriots,Los Angeles Rams,betrivers,2024-11-13 21:26:39+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,47,1.0
+Over,-110,43.5,2024-11-17,New England Patriots,Los Angeles Rams,betus,2024-11-13 21:26:32+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-110,43.5,2024-11-17,New England Patriots,Los Angeles Rams,draftkings,2024-11-06 22:23:14+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-115,44.5,2024-11-17,New England Patriots,Los Angeles Rams,fanduel,2024-11-06 22:23:16+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,47,1.0
+Over,-107,43.5,2024-11-17,New England Patriots,Los Angeles Rams,lowvig,2024-11-13 21:26:42+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-110,43.5,2024-11-17,New England Patriots,Los Angeles Rams,williamhill_us,2024-11-06 22:22:02+00:00,31,16.4,19,23.5,20,21.2,26,25.1,50.0,11,48,1.0
+Over,-110,41.0,2024-10-27,New England Patriots,New York Jets,betmgm,2024-10-25 18:34:47+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betonlineag,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-115,40.5,2024-10-27,New England Patriots,New York Jets,betonlineag,2024-10-25 18:34:46+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,39,0.0
+Over,-113,41.0,2024-10-27,New England Patriots,New York Jets,betrivers,2024-10-25 18:34:47+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,39,0.0
+Over,-110,41.0,2024-10-27,New England Patriots,New York Jets,betus,2024-10-25 18:31:56+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-112,41.0,2024-10-27,New England Patriots,New York Jets,draftkings,2024-10-25 18:33:18+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-107,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,lowvig,2024-11-30 17:40:41+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-105,41.5,2024-10-27,New England Patriots,New York Jets,fanduel,2024-10-25 18:34:46+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,41,0.0
+Over,-114,40.5,2024-10-27,New England Patriots,New York Jets,lowvig,2024-10-25 18:34:46+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,39,0.0
+Over,-110,41.0,2024-10-27,New England Patriots,New York Jets,williamhill_us,2024-10-25 18:29:06+00:00,31,16.4,19,23.5,27,18.5,12,22.0,47.0,8,40,0.0
+Over,-110,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,betmgm,2024-11-06 22:23:17+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-110,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,betonlineag,2024-11-06 22:23:15+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-112,46.0,2024-11-10,New Orleans Saints,Atlanta Falcons,betrivers,2024-11-06 22:23:15+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-110,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,betus,2024-11-06 22:23:16+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-112,46.0,2024-11-10,New Orleans Saints,Atlanta Falcons,draftkings,2024-11-06 22:23:14+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-115,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,fanduel,2024-11-06 22:23:16+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betus,2024-11-30 17:40:42+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-105,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,lowvig,2024-11-06 22:23:14+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,47,0.0
+Over,-110,46.5,2024-11-10,New Orleans Saints,Atlanta Falcons,williamhill_us,2024-11-06 22:22:02+00:00,11,23.8,20,23.6,16,22.2,25,24.9,37.0,10,46,1.0
+Over,-110,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,betmgm,2024-11-13 21:26:39+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-110,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,betonlineag,2024-11-13 21:26:47+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-109,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,betrivers,2024-11-13 21:26:39+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-110,46.0,2024-12-08,Minnesota Vikings,Atlanta Falcons,betrivers,2024-11-30 17:40:43+00:00,9,24.9,5,17.9,16,22.2,25,24.9,,14,46,
+Over,-110,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,betus,2024-11-13 21:26:32+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-110,42.5,2024-11-17,New Orleans Saints,Cleveland Browns,draftkings,2024-11-06 22:23:14+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,41,0.0
+Over,-110,42.5,2024-11-17,New Orleans Saints,Cleveland Browns,fanduel,2024-11-06 22:23:16+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,41,0.0
+Over,-107,44.5,2024-11-17,New Orleans Saints,Cleveland Browns,lowvig,2024-11-13 21:26:42+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,42,0.0
+Over,-110,42.0,2024-11-17,New Orleans Saints,Cleveland Browns,williamhill_us,2024-11-06 22:22:02+00:00,11,23.8,20,23.6,30,16.9,22,24.3,49.0,11,41,0.0
+Over,-110,48.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betmgm,2024-11-27 16:02:03+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-105,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betonlineag,2024-11-27 16:02:02+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,48.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betrivers,2024-11-27 16:02:03+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betus,2024-11-27 16:02:03+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,fanduel,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-108,49.0,2024-12-01,New Orleans Saints,Los Angeles Rams,draftkings,2024-11-27 16:02:02+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-105,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,fanduel,2024-11-27 16:02:03+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-102,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,lowvig,2024-11-27 16:02:02+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,48,
+Over,-110,46.5,2024-12-01,New Orleans Saints,Los Angeles Rams,williamhill_us,2024-11-21 18:41:25+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,46,
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betus,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,48.0,2024-12-01,Atlanta Falcons,Los Angeles Chargers,betmgm,2024-11-27 16:02:03+00:00,16,22.2,25,24.9,18,22.1,1,15.9,,13,36,
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betmgm,2024-11-30 17:39:20+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-105,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betonlineag,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,42.5,2024-12-01,Jacksonville Jaguars,Houston Texans,williamhill_us,2024-11-21 18:41:25+00:00,25,18.9,31,28.7,12,23.8,15,22.3,,13,46,
+Over,-108,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betrivers,2024-11-30 17:40:43+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,50.5,2024-11-24,Indianapolis Colts,Detroit Lions,draftkings,2024-11-21 18:42:41+00:00,22,20.2,16,22.8,1,31.9,4,16.9,30.0,12,45,1.0
+Over,-110,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,betus,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-110,48.0,2024-11-10,Indianapolis Colts,Buffalo Bills,williamhill_us,2024-11-06 22:22:02+00:00,22,20.2,16,22.8,3,29.1,7,19.5,50.0,10,45,0.0
+Over,-108,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,draftkings,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-105,50.0,2024-10-27,Jacksonville Jaguars,Green Bay Packers,betonlineag,2024-10-25 18:34:46+00:00,25,18.9,31,28.7,8,26.5,9,20.0,57.0,8,47,0.0
+Over,-106,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,fanduel,2024-11-30 17:40:42+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,47,
+Over,-102,49.5,2024-12-01,New Orleans Saints,Los Angeles Rams,lowvig,2024-11-30 17:40:41+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,48,
+Over,-110,40.0,2024-12-08,New York Giants,New Orleans Saints,betonlineag,2024-11-27 16:02:02+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-110,39.5,2024-12-08,New York Giants,New Orleans Saints,draftkings,2024-11-27 16:02:02+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-105,40.5,2024-12-08,New York Giants,New Orleans Saints,fanduel,2024-11-27 16:02:03+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,44,
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betonlineag,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-107,40.0,2024-12-08,New York Giants,New Orleans Saints,lowvig,2024-11-27 16:02:02+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-110,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,draftkings,2024-10-25 18:33:18+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-112,40.0,2024-12-08,New York Giants,New Orleans Saints,betrivers,2024-11-30 17:40:43+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-110,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,betus,2024-10-25 18:31:56+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-110,40.0,2024-12-08,New York Giants,New Orleans Saints,draftkings,2024-11-30 17:40:42+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-110,46.5,2024-12-01,Carolina Panthers,Tampa Bay Buccaneers,fanduel,2024-11-27 16:02:03+00:00,29,17.6,32,30.9,4,28.1,24,24.8,,13,56,
+Over,-105,40.5,2024-12-08,New York Giants,New Orleans Saints,fanduel,2024-11-30 17:40:42+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,44,
+Over,-110,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,betmgm,2024-11-21 18:42:41+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-105,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,betonlineag,2024-11-21 18:42:41+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-112,41.0,2024-11-24,New York Giants,Tampa Bay Buccaneers,betrivers,2024-11-21 18:42:42+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,47,0.0
+Over,-105,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,betus,2024-11-21 18:41:26+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-112,41.0,2024-11-24,New York Giants,Tampa Bay Buccaneers,draftkings,2024-11-21 18:42:41+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,47,0.0
+Over,-105,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,fanduel,2024-11-21 18:42:42+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-107,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,lowvig,2024-11-18 19:21:49+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-110,41.5,2024-11-24,New York Giants,Tampa Bay Buccaneers,williamhill_us,2024-11-21 18:41:25+00:00,32,15.3,18,23.3,4,28.1,24,24.8,37.0,12,48,0.0
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,betmgm,2024-10-30 14:56:40+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,betonlineag,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betrivers,2024-11-30 17:40:43+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,betrivers,2024-10-30 14:57:57+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,betus,2024-10-30 14:57:57+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,draftkings,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-106,43.5,2024-11-03,New York Giants,Washington Commanders,fanduel,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-107,43.5,2024-11-03,New York Giants,Washington Commanders,lowvig,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,draftkings,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,williamhill_us,2024-10-30 14:57:15+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,42.0,2024-11-01,New York Jets,Houston Texans,betmgm,2024-10-30 14:56:40+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-107,42.0,2024-11-01,New York Jets,Houston Texans,betonlineag,2024-10-30 14:57:56+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betus,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,42.0,2024-11-01,New York Jets,Houston Texans,betrivers,2024-10-30 14:57:57+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-105,42.0,2024-11-01,New York Jets,Houston Texans,betus,2024-10-30 14:57:57+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-112,42.0,2024-11-01,New York Jets,Houston Texans,draftkings,2024-10-30 14:57:56+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,45,0.0
+Over,-105,42.5,2024-11-01,New York Jets,Houston Texans,fanduel,2024-10-30 14:57:56+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-104,42.0,2024-11-01,New York Jets,Houston Texans,lowvig,2024-10-30 14:57:56+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-110,42.0,2024-11-01,New York Jets,Houston Texans,williamhill_us,2024-10-30 14:57:15+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-110,44.0,2024-11-17,New York Jets,Indianapolis Colts,betmgm,2024-11-13 21:26:39+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,45,1.0
+Over,-110,43.5,2024-11-17,New York Jets,Indianapolis Colts,betonlineag,2024-11-06 22:23:15+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,44,1.0
+Over,-110,44.0,2024-11-17,New York Jets,Indianapolis Colts,betrivers,2024-11-13 21:26:39+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,45,1.0
+Over,-110,43.5,2024-11-17,New York Jets,Indianapolis Colts,betus,2024-11-13 21:26:32+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,44,1.0
+Over,-110,43.0,2024-11-17,New York Jets,Indianapolis Colts,draftkings,2024-11-06 22:23:14+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,44,1.0
+Over,-105,43.5,2024-11-17,New York Jets,Indianapolis Colts,fanduel,2024-11-06 22:23:16+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,45,1.0
+Over,-107,43.5,2024-11-17,New York Jets,Indianapolis Colts,lowvig,2024-11-06 22:23:14+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,45,1.0
+Over,-110,43.5,2024-11-17,New York Jets,Indianapolis Colts,williamhill_us,2024-11-06 22:22:02+00:00,27,18.5,12,22.0,22,20.2,16,22.8,55.0,11,44,1.0
+Over,-110,41.5,2024-12-01,New York Jets,Seattle Seahawks,betmgm,2024-11-27 16:02:03+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,41.5,2024-12-01,New York Jets,Seattle Seahawks,betonlineag,2024-11-27 16:02:02+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,41.5,2024-12-01,New York Jets,Seattle Seahawks,betrivers,2024-11-27 16:02:03+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betrivers,2024-11-30 17:40:43+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,41.5,2024-12-01,New York Jets,Seattle Seahawks,betus,2024-11-27 16:02:03+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-112,41.5,2024-12-01,New York Jets,Seattle Seahawks,draftkings,2024-11-27 16:02:02+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-115,43.5,2024-12-01,New York Jets,Seattle Seahawks,fanduel,2024-11-21 18:42:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-107,41.5,2024-12-01,New York Jets,Seattle Seahawks,lowvig,2024-11-27 16:02:02+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-110,44.0,2024-12-01,New York Jets,Seattle Seahawks,williamhill_us,2024-11-21 18:41:25+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-107,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,lowvig,2024-11-30 17:40:41+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,42.0,2024-12-01,New York Jets,Seattle Seahawks,betmgm,2024-11-30 17:39:20+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,42.0,2024-12-01,New York Jets,Seattle Seahawks,betonlineag,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-109,42.0,2024-12-01,New York Jets,Seattle Seahawks,betrivers,2024-11-30 17:40:43+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-110,43.5,2024-11-17,Denver Broncos,Atlanta Falcons,fanduel,2024-11-06 22:23:16+00:00,19,22.0,2,16.8,16,22.2,25,24.9,44.0,11,49,1.0
+Over,-110,42.0,2024-12-01,New York Jets,Seattle Seahawks,betus,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,40.5,2024-11-17,Chicago Bears,Green Bay Packers,betmgm,2024-11-13 21:26:39+00:00,23,20.1,9,20.0,8,26.5,9,20.0,39.0,11,43,0.0
+Over,-112,41.5,2024-12-01,New York Jets,Seattle Seahawks,draftkings,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-105,43.5,2024-11-24,Carolina Panthers,Kansas City Chiefs,fanduel,2024-11-21 18:42:42+00:00,29,17.6,32,30.9,10,24.1,8,19.6,57.0,12,45,1.0
+Over,-105,42.5,2024-12-01,New York Jets,Seattle Seahawks,fanduel,2024-11-30 17:40:42+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-110,41.0,2024-10-27,Denver Broncos,Carolina Panthers,draftkings,2024-10-25 18:33:18+00:00,19,22.0,2,16.8,29,17.6,32,30.9,42.0,8,52,1.0
+Over,-107,42.0,2024-12-01,New York Jets,Seattle Seahawks,lowvig,2024-11-30 17:40:41+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betonlineag,2024-11-27 16:02:02+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,45.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,draftkings,2024-11-27 16:02:02+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betus,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,54,
+Over,-105,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,fanduel,2024-11-27 16:02:03+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,55,
+Over,-107,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,lowvig,2024-11-27 16:02:02+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-105,40.5,2024-12-08,New York Giants,New Orleans Saints,fanduel,2024-11-27 16:02:03+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,44,
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betonlineag,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,43.5,2024-11-03,New York Giants,Washington Commanders,betonlineag,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betrivers,2024-11-30 17:40:43+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,46.5,2024-12-01,New Orleans Saints,Los Angeles Rams,williamhill_us,2024-11-21 18:41:25+00:00,11,23.8,20,23.6,20,21.2,26,25.1,,13,46,
+Over,-110,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,betus,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,45.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,draftkings,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-105,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,fanduel,2024-11-30 17:40:42+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,55,
+Over,-107,44.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,lowvig,2024-11-30 17:40:41+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,betmgm,2024-10-30 14:56:40+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-115,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,betonlineag,2024-10-30 14:57:56+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,52,1.0
+Over,-112,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,betrivers,2024-10-30 14:57:57+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-110,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,betus,2024-10-30 14:57:57+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-105,43.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,fanduel,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-112,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,draftkings,2024-10-30 14:57:56+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-110,44.5,2024-12-08,San Francisco 49ers,Chicago Bears,draftkings,2024-11-30 17:40:42+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,39,
+Over,-114,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,fanduel,2024-10-30 14:57:56+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,52,1.0
+Over,-113,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,lowvig,2024-10-30 14:57:56+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-110,46.0,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,williamhill_us,2024-10-30 14:57:15+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-110,48.5,2024-11-15,Philadelphia Eagles,Washington Commanders,betmgm,2024-11-13 21:26:39+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-110,50.0,2024-11-15,Philadelphia Eagles,Washington Commanders,betonlineag,2024-11-06 22:23:15+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-109,48.5,2024-11-15,Philadelphia Eagles,Washington Commanders,betrivers,2024-11-13 21:26:39+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-110,48.5,2024-11-15,Philadelphia Eagles,Washington Commanders,betus,2024-11-13 21:26:32+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-107,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,lowvig,2024-11-30 17:40:41+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,49.0,2024-11-15,Philadelphia Eagles,Washington Commanders,draftkings,2024-11-06 22:23:14+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-115,49.5,2024-11-15,Philadelphia Eagles,Washington Commanders,fanduel,2024-11-06 22:23:16+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-107,50.0,2024-11-15,Philadelphia Eagles,Washington Commanders,lowvig,2024-11-06 22:23:14+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,52,0.0
+Over,-110,49.0,2024-11-15,Philadelphia Eagles,Washington Commanders,williamhill_us,2024-11-06 22:22:02+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-110,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betonlineag,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,54,
+Over,-110,48.5,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,betmgm,2024-11-13 21:26:39+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-110,45.0,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,betonlineag,2024-11-06 22:23:15+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,49,0.0
+Over,-112,48.0,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,betrivers,2024-11-13 21:26:39+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-110,47.5,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,betus,2024-11-13 21:26:32+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-110,45.0,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,draftkings,2024-11-06 22:23:14+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,49,0.0
+Over,-105,45.5,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,fanduel,2024-11-06 22:23:16+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-109,43.0,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betrivers,2024-11-30 17:40:43+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-107,45.0,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,lowvig,2024-11-06 22:23:14+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-110,45.0,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,williamhill_us,2024-11-06 22:22:02+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,49,0.0
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betonlineag,2024-11-27 16:02:02+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,draftkings,2024-11-27 16:02:02+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,fanduel,2024-11-27 16:02:03+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,45.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,draftkings,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-107,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,lowvig,2024-11-27 16:02:02+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betonlineag,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,41.5,2024-12-01,New York Jets,Seattle Seahawks,betrivers,2024-11-27 16:02:03+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,44,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betrivers,2024-11-30 17:40:43+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-107,42.0,2024-11-01,New York Jets,Houston Texans,betonlineag,2024-10-30 14:57:56+00:00,27,18.5,12,22.0,12,23.8,15,22.3,34.0,9,46,0.0
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,betus,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-107,43.5,2024-11-03,New York Giants,Washington Commanders,lowvig,2024-10-30 14:57:56+00:00,32,15.3,18,23.3,5,27.8,17,23.1,49.0,9,45,1.0
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,draftkings,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,fanduel,2024-11-30 17:40:42+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,44.0,2024-12-01,New York Jets,Seattle Seahawks,williamhill_us,2024-11-21 18:41:25+00:00,27,18.5,12,22.0,15,22.4,14,22.2,,13,45,
+Over,-107,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,lowvig,2024-11-30 17:40:41+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,betmgm,2024-10-25 18:34:47+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-110,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,betonlineag,2024-10-25 18:34:46+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-112,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,betrivers,2024-10-25 18:34:47+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-110,45.0,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,betus,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,betus,2024-10-25 18:31:56+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-108,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,draftkings,2024-10-25 18:33:18+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,37,1.0
+Over,-108,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,fanduel,2024-10-25 18:34:46+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,37,1.0
+Over,-107,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,lowvig,2024-10-25 18:34:46+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,37,1.0
+Over,-110,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,williamhill_us,2024-10-25 18:29:06+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-115,44.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,fanduel,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,53,
+Over,-110,44.0,2024-12-08,San Francisco 49ers,Chicago Bears,betonlineag,2024-11-27 16:02:02+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,39,
+Over,-110,44.5,2024-12-08,San Francisco 49ers,Chicago Bears,draftkings,2024-11-27 16:02:02+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,39,
+Over,-105,45.5,2024-12-08,San Francisco 49ers,Chicago Bears,fanduel,2024-11-27 16:02:03+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,40,
+Over,-107,44.0,2024-12-08,San Francisco 49ers,Chicago Bears,lowvig,2024-11-27 16:02:02+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,40,
+Over,-112,44.5,2024-12-08,San Francisco 49ers,Chicago Bears,betrivers,2024-11-30 17:40:43+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,39,
+Over,-112,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,draftkings,2024-10-30 14:57:56+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-110,44.5,2024-12-08,San Francisco 49ers,Chicago Bears,draftkings,2024-11-30 17:40:42+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,39,
+Over,-109,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,betrivers,2024-10-25 18:34:47+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-105,45.5,2024-12-08,San Francisco 49ers,Chicago Bears,fanduel,2024-11-30 17:40:42+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,40,
+Over,-110,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,betmgm,2024-10-25 18:34:47+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-115,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,betonlineag,2024-10-25 18:34:46+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,51,1.0
+Over,-109,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,betrivers,2024-10-25 18:34:47+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-105,45.5,2024-12-08,San Francisco 49ers,Chicago Bears,fanduel,2024-11-30 17:40:42+00:00,13,23.6,20,23.6,23,20.1,9,20.0,,14,40,
+Over,-110,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,betus,2024-10-25 18:31:56+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-112,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,draftkings,2024-10-25 18:33:18+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-108,47.5,2024-10-28,San Francisco 49ers,Dallas Cowboys,fanduel,2024-10-25 18:34:46+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-113,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,lowvig,2024-10-25 18:34:46+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,51,1.0
+Over,-110,44.5,2024-12-08,Miami Dolphins,New York Jets,draftkings,2024-11-30 17:40:42+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-110,47.0,2024-10-28,San Francisco 49ers,Dallas Cowboys,williamhill_us,2024-10-25 18:29:06+00:00,13,23.6,20,23.6,21,20.7,30,28.3,54.0,8,52,1.0
+Over,-110,48.5,2024-11-17,San Francisco 49ers,Seattle Seahawks,betmgm,2024-11-13 21:26:39+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betrivers,2024-11-30 17:40:43+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,48.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,betonlineag,2024-11-13 21:26:47+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-110,48.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,betrivers,2024-11-13 21:26:39+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-110,48.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,betus,2024-11-13 21:26:32+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,44,1.0
+Over,-105,44.5,2024-12-08,Miami Dolphins,New York Jets,fanduel,2024-11-30 17:40:42+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-110,49.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,draftkings,2024-11-06 22:23:14+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,45,1.0
+Over,-108,48.5,2024-11-17,San Francisco 49ers,Seattle Seahawks,fanduel,2024-11-13 21:27:06+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,45,1.0
+Over,-107,48.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,lowvig,2024-11-13 21:26:42+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,45,1.0
+Over,-110,49.0,2024-11-17,San Francisco 49ers,Seattle Seahawks,williamhill_us,2024-11-06 22:22:02+00:00,13,23.6,20,23.6,15,22.4,14,22.2,37.0,11,45,1.0
+Over,-110,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,betmgm,2024-11-21 18:42:41+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-110,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,betonlineag,2024-11-21 18:42:41+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-112,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,betrivers,2024-11-21 18:42:42+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-110,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,betus,2024-11-21 18:41:26+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-108,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,draftkings,2024-11-21 18:42:41+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-110,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,fanduel,2024-11-21 18:42:42+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-107,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,lowvig,2024-11-18 19:21:49+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-109,44.5,2024-12-08,Miami Dolphins,New York Jets,betrivers,2024-11-30 17:40:43+00:00,24,19.3,13,22.2,27,18.5,12,22.0,,14,41,
+Over,-110,47.5,2024-11-24,Seattle Seahawks,Arizona Cardinals,williamhill_us,2024-11-21 18:41:25+00:00,15,22.4,14,22.2,16,22.2,11,21.5,22.0,12,41,1.0
+Over,-115,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,betmgm,2024-10-25 18:34:47+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-110,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,betonlineag,2024-10-25 18:34:46+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-109,47.0,2024-10-27,Seattle Seahawks,Buffalo Bills,betrivers,2024-10-25 18:34:47+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-110,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,betus,2024-10-25 18:31:56+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-110,40.0,2024-12-08,New York Giants,New Orleans Saints,draftkings,2024-11-30 17:40:42+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-118,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,draftkings,2024-10-25 18:33:18+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,41,1.0
+Over,-115,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,fanduel,2024-10-25 18:34:46+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-107,46.5,2024-10-27,Seattle Seahawks,Buffalo Bills,lowvig,2024-10-25 18:34:46+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,43,1.0
+Over,-110,47.0,2024-10-27,Seattle Seahawks,Buffalo Bills,williamhill_us,2024-10-25 18:29:06+00:00,15,22.4,14,22.2,3,29.1,7,19.5,41.0,8,42,1.0
+Over,-110,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,betmgm,2024-10-30 14:56:40+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-105,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,betonlineag,2024-10-30 14:57:56+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,48,1.0
+Over,-110,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,betrivers,2024-10-30 14:57:57+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-110,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,betus,2024-10-30 14:57:57+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-112,48.0,2024-11-03,Seattle Seahawks,Los Angeles Rams,draftkings,2024-10-30 14:57:56+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-110,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,fanduel,2024-10-30 14:57:56+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-102,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,lowvig,2024-10-30 14:57:56+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,48,1.0
+Over,-110,48.5,2024-11-03,Seattle Seahawks,Los Angeles Rams,williamhill_us,2024-10-30 14:57:15+00:00,15,22.4,14,22.2,20,21.2,26,25.1,46.0,9,47,1.0
+Over,-110,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,betmgm,2024-10-25 18:34:47+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-105,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,betonlineag,2024-10-25 18:34:46+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-110,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,betrivers,2024-10-25 18:34:47+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-110,45.5,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,betus,2024-10-25 18:31:56+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-110,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,draftkings,2024-10-25 18:33:18+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-112,40.0,2024-12-08,New York Giants,New Orleans Saints,betrivers,2024-11-30 17:40:43+00:00,32,15.3,18,23.3,11,23.8,20,23.6,,14,43,
+Over,-115,45.5,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,fanduel,2024-10-25 18:34:46+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,52,1.0
+Over,-102,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,lowvig,2024-10-25 18:34:46+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,54,1.0
+Over,-110,46.0,2024-10-27,Tampa Bay Buccaneers,Atlanta Falcons,williamhill_us,2024-10-25 18:29:06+00:00,4,28.1,24,24.8,16,22.2,25,24.9,57.0,8,53,1.0
+Over,-110,45.0,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,betonlineag,2024-11-27 16:02:02+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,45.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,draftkings,2024-11-27 16:02:02+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,draftkings,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,42,
+Over,-105,44.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,fanduel,2024-11-27 16:02:03+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-107,45.0,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,lowvig,2024-11-27 16:02:02+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-112,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,betrivers,2024-10-25 18:34:47+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-110,45.0,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,betus,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,40.5,2024-12-08,Pittsburgh Steelers,Cleveland Browns,fanduel,2024-11-27 16:02:03+00:00,14,22.9,3,16.9,30,16.9,22,24.3,,14,40,
+Over,-110,45.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,draftkings,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,54,
+Over,-110,36.5,2024-10-29,Pittsburgh Steelers,New York Giants,williamhill_us,2024-10-25 18:29:06+00:00,14,22.9,3,16.9,32,15.3,18,23.3,44.0,8,36,0.0
+Over,-115,44.5,2024-12-08,Tampa Bay Buccaneers,Las Vegas Raiders,fanduel,2024-11-30 17:40:42+00:00,4,28.1,24,24.8,26,18.6,29,27.8,,14,53,
+Over,-110,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,betmgm,2024-11-06 22:23:17+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,52,0.0
+Over,-108,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,betonlineag,2024-11-06 22:23:15+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,53,0.0
+Over,-105,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betus,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-108,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,betrivers,2024-11-06 22:23:15+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,53,0.0
+Over,-110,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,betus,2024-11-06 22:23:16+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,52,0.0
+Over,-115,50.5,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,draftkings,2024-11-06 22:23:14+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,52,0.0
+Over,-115,50.5,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,fanduel,2024-11-06 22:23:16+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,52,0.0
+Over,-105,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,lowvig,2024-11-06 22:23:14+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,53,0.0
+Over,-105,46.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,fanduel,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,51.0,2024-11-10,Tampa Bay Buccaneers,San Francisco 49ers,williamhill_us,2024-11-06 22:22:02+00:00,4,28.1,24,24.8,13,23.6,20,23.6,43.0,10,52,0.0
+Over,-110,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betonlineag,2024-11-27 16:02:02+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,54,
+Over,-110,43.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,draftkings,2024-11-27 16:02:02+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-105,43.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,fanduel,2024-11-27 16:02:03+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-107,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,lowvig,2024-11-27 16:02:02+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,49.0,2024-11-15,Philadelphia Eagles,Washington Commanders,williamhill_us,2024-11-06 22:22:02+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-110,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betonlineag,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,54,
+Over,-105,45.5,2024-11-17,Pittsburgh Steelers,Baltimore Ravens,fanduel,2024-11-06 22:23:16+00:00,14,22.9,3,16.9,2,30.3,23,24.5,34.0,11,50,0.0
+Over,-109,43.0,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betrivers,2024-11-30 17:40:43+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,45.5,2024-12-08,Philadelphia Eagles,Carolina Panthers,draftkings,2024-11-27 16:02:02+00:00,7,26.9,6,18.1,29,17.6,32,30.9,,14,54,
+Over,-110,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,betus,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,54,
+Over,-110,43.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,draftkings,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,45.5,2024-11-03,Philadelphia Eagles,Jacksonville Jaguars,betus,2024-10-30 14:57:57+00:00,7,26.9,6,18.1,25,18.9,31,28.7,51.0,9,53,1.0
+Over,-105,43.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,fanduel,2024-11-30 17:40:42+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,48.5,2024-11-15,Philadelphia Eagles,Washington Commanders,betus,2024-11-13 21:26:32+00:00,7,26.9,6,18.1,5,27.8,17,23.1,44.0,11,51,0.0
+Over,-107,42.5,2024-12-08,Tennessee Titans,Jacksonville Jaguars,lowvig,2024-11-30 17:40:41+00:00,28,18.4,27,26.4,25,18.9,31,28.7,,14,55,
+Over,-110,39.5,2024-11-17,Tennessee Titans,Minnesota Vikings,betmgm,2024-11-13 21:26:39+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,42,0.0
+Over,-110,42.5,2024-11-17,Tennessee Titans,Minnesota Vikings,betonlineag,2024-11-06 22:23:15+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,43,0.0
+Over,-109,39.5,2024-11-17,Tennessee Titans,Minnesota Vikings,betrivers,2024-11-13 21:26:39+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,43,0.0
+Over,-110,39.5,2024-11-17,Tennessee Titans,Minnesota Vikings,betus,2024-11-13 21:26:32+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,42,0.0
+Over,-105,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betonlineag,2024-11-30 17:40:42+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-110,42.0,2024-11-17,Tennessee Titans,Minnesota Vikings,draftkings,2024-11-06 22:23:14+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,43,0.0
+Over,-105,41.5,2024-11-17,Tennessee Titans,Minnesota Vikings,fanduel,2024-11-06 22:23:16+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,44,0.0
+Over,-107,42.5,2024-11-17,Tennessee Titans,Minnesota Vikings,lowvig,2024-11-06 22:23:14+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,43,0.0
+Over,-110,42.0,2024-11-17,Tennessee Titans,Minnesota Vikings,williamhill_us,2024-11-06 22:22:02+00:00,28,18.4,27,26.4,9,24.9,5,17.9,36.0,11,43,0.0
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,betmgm,2024-10-30 14:56:40+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,betonlineag,2024-10-30 14:57:56+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-109,38.0,2024-11-03,Tennessee Titans,New England Patriots,betrivers,2024-10-30 14:57:57+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,betus,2024-10-30 14:57:57+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,draftkings,2024-10-30 14:57:56+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-108,45.5,2024-12-08,Arizona Cardinals,Seattle Seahawks,betrivers,2024-11-30 17:40:43+00:00,16,22.2,11,21.5,15,22.4,14,22.2,,14,43,
+Over,-115,37.5,2024-11-03,Tennessee Titans,New England Patriots,fanduel,2024-10-30 14:57:56+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,44,0.0
+Over,-107,38.0,2024-11-03,Tennessee Titans,New England Patriots,lowvig,2024-10-30 14:57:56+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-110,38.0,2024-11-03,Tennessee Titans,New England Patriots,williamhill_us,2024-10-30 14:57:15+00:00,28,18.4,27,26.4,31,16.4,19,23.5,37.0,9,45,0.0
+Over,-110,43.0,2024-10-27,Washington Commanders,Chicago Bears,betmgm,2024-10-25 18:34:47+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-110,43.0,2024-10-27,Washington Commanders,Chicago Bears,betonlineag,2024-10-25 18:34:46+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-113,43.0,2024-10-27,Washington Commanders,Chicago Bears,betrivers,2024-10-25 18:34:47+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-110,49.0,2024-12-08,Los Angeles Rams,Buffalo Bills,draftkings,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,43.5,2024-10-27,Washington Commanders,Chicago Bears,betus,2024-10-25 18:31:56+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-112,43.0,2024-10-27,Washington Commanders,Chicago Bears,draftkings,2024-10-25 18:33:18+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-115,43.5,2024-10-27,Washington Commanders,Chicago Bears,fanduel,2024-10-25 18:34:46+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-107,43.0,2024-10-27,Washington Commanders,Chicago Bears,lowvig,2024-10-25 18:34:46+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,44,0.0
+Over,-110,43.0,2024-10-27,Washington Commanders,Chicago Bears,williamhill_us,2024-10-25 18:29:06+00:00,5,27.8,17,23.1,23,20.1,9,20.0,33.0,8,43,1.0
+Over,-110,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,betmgm,2024-11-21 18:42:41+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,55,1.0
+Over,-108,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,betonlineag,2024-11-21 18:42:41+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,56,1.0
+Over,-109,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,betrivers,2024-11-21 18:42:42+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,56,1.0
+Over,-110,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,betus,2024-11-21 18:41:26+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,55,1.0
+Over,-110,45.5,2024-11-24,Washington Commanders,Dallas Cowboys,draftkings,2024-11-21 18:42:41+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,56,1.0
+Over,-115,44.5,2024-11-24,Washington Commanders,Dallas Cowboys,fanduel,2024-11-21 18:42:42+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,55,1.0
+Over,-107,44.5,2024-11-24,Washington Commanders,Dallas Cowboys,lowvig,2024-11-13 21:26:42+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,56,1.0
+Over,-110,45.0,2024-11-24,Washington Commanders,Dallas Cowboys,williamhill_us,2024-11-21 18:41:25+00:00,5,27.8,17,23.1,21,20.7,30,28.3,60.0,12,55,1.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betonlineag,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,betmgm,2024-11-06 22:23:17+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-105,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,betonlineag,2024-11-06 22:23:15+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,42,0.0
+Over,-112,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,betrivers,2024-11-06 22:23:15+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,betus,2024-11-06 22:23:16+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-107,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,lowvig,2024-11-30 17:40:41+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-108,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,draftkings,2024-11-06 22:23:14+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,42,0.0
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,fanduel,2024-11-06 22:23:16+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-102,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,lowvig,2024-11-06 22:23:14+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,42,0.0
+Over,-110,45.5,2024-11-10,Washington Commanders,Pittsburgh Steelers,williamhill_us,2024-11-06 22:22:02+00:00,5,27.8,17,23.1,14,22.9,3,16.9,55.0,10,41,0.0
+Over,-110,48.5,2024-12-08,Los Angeles Rams,Buffalo Bills,betus,2024-11-30 17:40:42+00:00,20,21.2,26,25.1,3,29.1,7,19.5,,14,47,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betmgm,2024-11-27 16:02:03+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-115,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betonlineag,2024-11-27 16:02:02+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,51,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betrivers,2024-11-27 16:02:03+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betus,2024-11-27 16:02:03+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-108,45.0,2024-12-01,Washington Commanders,Tennessee Titans,draftkings,2024-11-27 16:02:02+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-115,44.5,2024-12-01,Washington Commanders,Tennessee Titans,fanduel,2024-11-27 16:02:03+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,51,
+Over,-113,44.5,2024-12-01,Washington Commanders,Tennessee Titans,lowvig,2024-11-27 16:02:02+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,51,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,williamhill_us,2024-11-21 18:41:25+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betmgm,2024-11-30 17:39:20+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,45.0,2024-10-27,Detroit Lions,Tennessee Titans,betmgm,2024-10-25 18:34:47+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betonlineag,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,46.5,2024-11-17,Detroit Lions,Jacksonville Jaguars,betus,2024-11-13 21:26:32+00:00,1,31.9,4,16.9,25,18.9,31,28.7,58.0,11,63,1.0
+Over,-115,44.0,2024-12-01,Washington Commanders,Tennessee Titans,betrivers,2024-11-30 17:40:43+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,51,
+Over,-110,44.5,2024-12-01,Washington Commanders,Tennessee Titans,betus,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-108,44.5,2024-12-01,Washington Commanders,Tennessee Titans,draftkings,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-108,48.5,2024-11-28,Detroit Lions,Chicago Bears,draftkings,2024-11-27 16:02:02+00:00,1,31.9,4,16.9,23,20.1,9,20.0,43.0,13,53,0.0
+Over,-105,44.5,2024-12-01,Washington Commanders,Tennessee Titans,fanduel,2024-11-30 17:40:42+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
+Over,-110,44.5,2024-10-27,Detroit Lions,Tennessee Titans,lowvig,2024-10-25 18:34:46+00:00,1,31.9,4,16.9,28,18.4,27,26.4,66.0,8,60,1.0
+Over,-107,44.5,2024-12-01,Washington Commanders,Tennessee Titans,lowvig,2024-11-30 17:40:41+00:00,5,27.8,17,23.1,28,18.4,27,26.4,,13,52,
